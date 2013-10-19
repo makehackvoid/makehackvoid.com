@@ -9,4 +9,5 @@
 * http://www.makehackvoid.com/community/meetings -> meetings.md
 * http://www.makehackvoid.com/community/rules -> rules.md
 * http://www.makehackvoid.com/community/about-us -> about-us.md
+* http://www.makehackvoid.com/ -> index.html
 * 
