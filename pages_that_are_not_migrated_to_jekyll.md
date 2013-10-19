@@ -9,6 +9,11 @@ Can we have redirections for these pages to their new locations?
   * [http://www.makehackvoid.com/community/network-topology-progress]() 
   * [http://www.makehackvoid.com/community/server-config]()
   * [http://www.makehackvoid.com/community/ltsp-workstations]()
+* [http://www.makehackvoid.com/community/forms]()
+* [http://www.makehackvoid.com/community/glossary]()
+* [http://www.makehackvoid.com/community/ppe]()
+* [http://www.makehackvoid.com/community/risk-assessment]()
+* [http://www.makehackvoid.com/community/strategic-plan]() Some parts of this might belong on the public website (need updating!)
 
 ## Move to GitHub
 
@@ -16,6 +21,9 @@ Because this is on it's own url, it could just keep being hosted somewhere
 
 * [http://git.makehackvoid.com/cgi-bin/gitweb.cgi]()
 * [http://www.makehackvoid.com/community/mhv-git-repository]() - this page should move to wiki if git.makehackvoid.com is going to still need these instructions. If git.makehackvoid.com changes to being an alias for our github account then this page might not be needed
+
+### private github repository
+* [http://www.makehackvoid.com/community/tenancy-insurance-documents]()
 
 ## Archvive
 
