@@ -14,6 +14,17 @@ Can we have redirections for these pages to their new locations?
 * [http://www.makehackvoid.com/community/ppe]()
 * [http://www.makehackvoid.com/community/risk-assessment]()
 * [http://www.makehackvoid.com/community/strategic-plan]() Some parts of this might belong on the public website (need updating!)
+* **Assets section of website ** Not sure if these just go to static pages on the wiki or if someone wants to setup a database. Out of date. Some items are in the financial reporting spreadsheets on Google docs.
+  * [http://www.makehackvoid.com/community/how-donate-or-lend-assets]() The part of this about registing the assets will need to be updated for the wiki (or wherever they end up). Each item on these pages has it's own page. The detailed pages are where the information is about each bit of equipement - we definately want to migrate this for all the tools & 
+  * [http://www.makehackvoid.com/assets/books_magazines]()
+  * [http://www.makehackvoid.com/assets/computers]()
+  * [http://www.makehackvoid.com/assets/consumables]()
+  * [http://www.makehackvoid.com/assets/furniture_]()
+  * [http://www.makehackvoid.com/assets/all_tools]() I think this includes the next two items
+    * [http://www.makehackvoid.com/assets/handheld_tools]() (I think these are probably in the all_tools view?)
+    * [http://www.makehackvoid.com/assets/large_tools]() (I think these are probably in the all_tools view?)
+  * [http://www.makehackvoid.com/assets/junkpile]()
+  * [http://www.makehackvoid.com/community/tool-wishlist]() 
 
 ## Move to GitHub
 
