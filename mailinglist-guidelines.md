@@ -1,6 +1,13 @@
+---
+layout: default
+title: Maililng List Guidelines
+permalink: mailing-list-guidelines/
+
+---
+
 # Mailing List Guidelines
 
-Our [Code of Conduct](code-of-conduct.html) applies to mailing list discussions.
+Our [Code of Conduct](code-of-conduct/) applies to mailing list discussions.
 
 ## How Mailing Lists Work
  
