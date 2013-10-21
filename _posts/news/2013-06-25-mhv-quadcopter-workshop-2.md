@@ -5,8 +5,6 @@ title: MHV Quadcopter Workshop 2.0
 **Start:** 24/07/2013 18:30<br>
 **Where:** At MHV in Downer
 
-_assets/news/2013-06-25-mhv-quadcopter-workshop-2/9016546276_8763c97594.jpg
-
 ![MHV Quadcopter built by Dale Pearce, Photo by Adam Thomas](assets/news/2013-06-25-mhv-quadcopter-workshop-2/9016546276_8763c97594.jpg "MHV Quadcopter built by Dale Pearce, Photo by Adam Thomas")
 
 I would like to officially announce the 2nd MHV Quadcopter workshop!
