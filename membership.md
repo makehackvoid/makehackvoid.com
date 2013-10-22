@@ -7,63 +7,60 @@ permalink: join/
 
 Outside of [Maker Meetups](/community/meetings), become a member to take advantage of MHV’s facilities and support our community. Membership has three components;
 
-* **Annual Membership** 
+* **Annual Membership**
 * **Access** Members pay monthly or per visit access for their use of the MHV space.
 * **Space Opener** People who have a key to open the MHV space for themselves and other members.
 
 # Membership Cost
 
-<table border="1">
-<tr><td colspan=2><em>Annual Membership</em> </td></tr>
-<tr><td>Normal</td><td align='right'>$50 ($30 concession)</td></tr>
-<tr><td>Philanthropist</td><td align='right'>$50 + whatever you wish to add</td></tr>
-<tr><td colspan=2><em>Access<sup>1</sup></em></td></tr>
-<tr><td>Monthly (unlimited visits)</td><td align='right'>$60 ($35 concession)</td></tr>
-<tr><td>Per Visit - booklet of 10</td><td align='right'>$135 ($90 concession)</td></tr>
-<tr><td>Per Visit</td><td align='right'>$15 ($10 concession)</td></tr>
-</table>
+|Annual Membership| |
+|:---------|---------:|
+|Normal | $50 ($30 concession)|
+|Philanthropist|$50 + whatever you wish to add|
+|**Access**| |
+|Monthly (unlimited visits)|$60 ($35 concession)|
+|Per Visit - booklet of 10|$135 ($90 concession)|
+|Per Visit|$15 ($10 concession)|
 
-<sup>1</sup>See <a href="#faq">FAQ</a> below for details of when visit fees are required. 
+**Note:** See <a href="#faq">FAQ</a> below for details of when visit fees are required.
 
 Paying by direct bank tranfer is much easier for MHV to administer than paying in cash.
 
-Concession rates apply for full-time students, Seniors Card holders &amp; pensioners. 
+Concession rates apply for full-time students, Seniors Card holders &amp; pensioners.
 
 
 # Membership
 What MHV membership entitles you to:
 
-<table border="1">
-<tr><th>Who can...</th><th>Anyone</th><th>Members</th></tr>
-<tr><td>Come to Maker Meetups.</td><td>Yes </td><td>Yes</td></tr>
-<tr><td>Take part in the online community - mailing lists, website, etc.</td>
-<td>Yes </td><td>Yes </td></tr>
-<tr><td>Come to the space whenever it is open. </td><td> </td><td>Yes </td></tr>
-<tr><td>Post projects or news on www.makehackvoid.com. </td><td> </td><td>Yes </td></tr>
-<tr><td>Work with the space’s computers, hand tools, most electronics tools, some power tools, etc. </td><td> </td><td>Yes</td></tr>
-<tr><td>Use components or salvage from the Junk Area. </td><td> </td><td>Yes </td></tr>
-<tr><td>Work with high risk or complex tools that require induction (bandsaw, isolation transformer, CNC machines, etc.) </td><td> </td><td>Yes</td></tr>
-<tr><td>Have their own locker or personal storage area in the space. </td><td> </td><td>Yes</td></tr>
-<tr><td>Have an account on the space’s server &amp; workstations (different to makehackvoid.com.) </td><td> </td><td>Yes</td></tr>
-<tr><td>Vote at the AGM and other meetings</td><td> </td><td>Yes</td></tr>
-<tr><td>Support something awesome in Canberra! </td><td> </td><td>Yes</td></tr>
-</table>
+|Who can...|Anyone|Members|
+|:---------|:-----|:------|
+|Come to Maker Meetups.|Yes|Yes|
+|Take part in the online community - mailing lists, website, etc.|Yes|Yes|
+|Come to the space whenever it is open.||Yes|
+|Post projects or news on www.makehackvoid.com.||Yes|
+|Work with the space’s computers, hand tools, most electronics tools, some power tools, etc.||Yes|
+|Use components or salvage from the Junk Area.||Yes|
+|Work with high risk or complex tools that require induction (bandsaw, isolation transformer, CNC machines, etc.)||Yes|
+|Have their own locker or personal storage area in the space.||Yes|
+|Have an account on the space’s server & workstations (different to makehackvoid.com.)||Yes|
+|Vote at the AGM and other meetings||Yes|
+|Support something awesome in Canberra!||Yes|
 
 # How to become a Member
 
 Joining is really easy - just show up at the space some time when it is open!
 
-* **Step One** - Fill in the membership form (it's online, but you need to be physically in the space to use it - [this link will only work if you are there](http://morphia/mhvdb/signup) or use this [Google Form from anywhere](https://docs.google.com/forms/d/1Yu7iUOJPQHefiLgDue3oAbMBu-4s87f_tygPlz5Isw0/viewform).) 
+* **Step One** - Fill in the membership form (it's online, but you need to be physically in the space to use it - [this link will only work if you are there](http://morphia/mhvdb/signup) or use this [Google Form from anywhere](https://docs.google.com/forms/d/1Yu7iUOJPQHefiLgDue3oAbMBu-4s87f_tygPlz5Isw0/viewform).)
 
 * **Step Two** - Check out [the rules](/community/rules) of the Hackerspace (including conditions of membership) and make sure that you agree to abide by them. That’s important for everyone’s safety and enjoyment.
 
 * **Step Three** - Bank transfer your annual membership payment (and initial access payment if you are going to come other times than the [Maker Meetups](/community/meetings) which are gold coin donation) to:
-    
+
     + Name: Make Hack Void Inc
     + BSB : 012951
     + Account No: 250992065
-     
-    Use your full name as the payment description. 
+
+    Use your full name as the payment description.
 
     The MHV account is with the ANZ Bank.
 
@@ -95,14 +92,13 @@ You only <i>need</i> to become a Space Opener if you want your own key to the sp
 
 * **Step Three** - Once this is recorded at a committee meeting or on the committee mailing list, you become eligible (yay!) Now you should contact the treasurer - treasurer at makehackvoid dot com - and ask about payment for your key.
 
-<table border="1">
-<tr><th>Renew every...	</th><th>Space Opener</th></tr>
-<tr><td>3 months</td><td align='right'>&nbsp; $65 ($40 concession)</td></tr>
-<tr><td>6 months</td><td align='right'>&nbsp;  $130 ($80 concession)</td></tr>
-<tr><td>12 months</td><td align='right'>&nbsp; $240 ($130 concession)</td></tr>
-</table>
+|Renew every...|Space Opener|
+|:-------------|:-----------|
+|3 months|  $65 ($40 concession)|
+|6 months|  $130 ($80 concession)|
+|12 months|  $240 ($130 concession)|
 
-* **Step Four** - The person who nominated you, and the seconders, are responsible for inducting you as a Space Opener. This includes arranging a key and an alarm code. Also showing you how to open the space, how to announce when the space will be open, how to sign up new members, how to accept casual access fees, etc. 
+* **Step Four** - The person who nominated you, and the seconders, are responsible for inducting you as a Space Opener. This includes arranging a key and an alarm code. Also showing you how to open the space, how to announce when the space will be open, how to sign up new members, how to accept casual access fees, etc.
 
 * **Step Five** - Back to the awesome making and voiding
 
@@ -124,7 +120,7 @@ Members pay a per-visit casual use fee if they are working with tools (including
 No. Gold coin donation would be appreciated.
 
 ## What about hackers under 18 (minors)?
- 
+
 Due to our insurance, only those 18 &amp; over may use tools at MHV.  Although they cannot become members, minors are welcome at Maker Meetups, or for social visits in the meeting area &amp; couches.
 
 Those under 16 can visit the space when accompanied by a responsible adult who takes responsibility for their safety &amp; conduct.
