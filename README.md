@@ -5,15 +5,9 @@ This project is to create a replacement for the front-facing MakeHackVoid websit
 
 Technologies
 ------------
-* Jekyll
-* Twitter Bootstrap
-* jQuery
-
-
-Contributors
-------------
-* [cmrn](http://github.com/cmrn)
-* Your name here!
+* Jekyll (1.1)
+* Twitter Bootstrap (3.0)
+* jQuery (1.10)
 
 License
 -------
