@@ -1,2 +1,5 @@
 name: MakeHackVoid
+
+timezone: Australia/Canberra
 pygments: true
+relative_permalinks: false
