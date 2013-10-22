@@ -22,4 +22,4 @@ This is run over the course of several weekday evenings where attendees will bui
  * There are 12 spots available for the workshop.
  * A laptop is required for running the ground station software
 
-If you would like to attend, please email quadcopters <at> makehackvoid.com
+If you would like to attend, please email [quadcopters@makehackvoid.com](mailto:quadcopters@makehackvoid.com).
