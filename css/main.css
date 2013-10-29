@@ -1,3 +1,8 @@
 body {
   padding-top: 50px;
 }
+
+/* dropdownier dropdowns */
+ul.nav li.dropdown:hover ul.dropdown-menu{
+    display: block;    
+}
