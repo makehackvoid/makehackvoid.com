@@ -3,15 +3,13 @@ layout: default
 title: Homepage
 ---
 
-We are Make Hack Void, a [Hackerspace\*](#hackerspace) in Canberra, Australia.
+MakeHackVoid, described by Us Folk magazine as “one of Canberra’s best new creative organisations”, is a [hackerspace\*](#hackerspace) that provides ACT residents with a multi use [workshop and meeting space in Downer](#our-space). MakeHackVoid is modeled on an international community of like minded spaces that started in Germany in 1995. It supports and encourages arts, science and technology culture in the ACT by providing a physical space for Canberra residents, as well as national and international visitors to meet, interact and create.
 
-[Our space]() [(Map)]() is a community workshop in Downer where members can come to work on their projects, get access to tools and expertise, and meet like-minded people. [Membership]() is $50/year ($30 concession) and there are a range of [access options]().
+[Membership]() is $50/year ($30 concession) and there are a range of [access options]().
 
-We hold [Maker Meetups](meetings/) on the 1st, 3rd &amp; 5th Tuesdays of each month where anyone at all can chat, show and tell, get help or advice, and talk about their projects. You don't have to be a member to come to a Meetup.
+We hold public [Maker Meetups](meetings/) on the 1st, 3rd &amp; 5th Tuesdays of each month. These meetups are where we invite you to join us and chat, participate in show and tell, get help or advice, or talk about your projects. You don't have to be a member to come to a Meetup.
 
-Our group includes people with extremely diverse interests. Fibreglass moulds to FPGA electronics, Arduinos to DIY pizza ovens. Plus lots more. We're all interested in making things, hacking on projects, and we're not afraid of voiding warranties if we have to.
-
-MakeHackVoid is dedicated to a harassment-free experience for everyone. See our [Code of conduct](code-of-conduct).
+Our group includes people with diverse backgrounds and interests. MakeHackVoid is dedicated to a harassment-free experience for everyone. See our [Code of conduct](code-of-conduct).
 
 If you can't make it to the next meeting then subscribe to the [Makers mailing list](contacts/), follow us on [Twitter](http://twitter.com/makehackvoid), [Facebook](http://www.facebook.com/group.php?gid=357947732276), or join us in the [IRC channel](contacts/).
 
