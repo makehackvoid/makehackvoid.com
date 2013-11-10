@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DDR board for the Dreamcast.
+title: DDR board for the Dreamcast
 permalink: projects/ddr-board-dreamcast/
 category: projects
 excerpt:

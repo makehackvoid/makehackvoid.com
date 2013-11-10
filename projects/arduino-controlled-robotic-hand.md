@@ -7,9 +7,6 @@ excerpt: One of my ongoing projects (I started it when I was about 15 years old 
 
 ---
 
-Arduino controlled robotic hand
-====================
-
 *Combust — Thu, 20/05/2010 - 4:32pm*
 
 

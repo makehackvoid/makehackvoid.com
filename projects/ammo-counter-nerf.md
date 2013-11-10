@@ -7,9 +7,6 @@ excerpt: The ammo counter, the most ubiquitous and humble of FPS game elements, 
 
 ---
 
-Ammo Counter for Nerf Gun
-====================
-
 *wil5on — Tue, 21/06/2011 - 12:58pm*
 
 The ammo counter, the most ubiquitous and humble of FPS game elements, but completely absent from Nerf combat (apart from some transparent magazines). I decided to remedy this!

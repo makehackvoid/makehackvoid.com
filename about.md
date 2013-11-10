@@ -5,7 +5,6 @@ permalink: about/
 
 ---
 
-# About Us
 Make, Hack, Void Inc is a community association based in Canberra, Australia.
 
 ## Mission Statement

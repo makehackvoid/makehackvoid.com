@@ -4,9 +4,6 @@ title: Contacts
 permalink: contact/
 
 ---
-#Contact Us
-
-
 
 ## In Person
 
