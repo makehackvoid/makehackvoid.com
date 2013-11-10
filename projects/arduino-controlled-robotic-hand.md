@@ -1,3 +1,12 @@
+---
+layout: default
+title: Arduino controlled robotic hand
+permalink: projects/arduino-controlled-robotic-hand/
+category: projects
+excerpt: One of my ongoing projects (I started it when I was about 15 years old with an aluminium one) has been a robot hand but only recently have I been able to easily make something that will control multiple hobby servos. Hooray Arduinos!
+
+---
+
 Arduino controlled robotic hand
 ====================
 
