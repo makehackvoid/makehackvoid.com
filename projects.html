@@ -1,0 +1,24 @@
+---
+layout: default
+title: Projects
+permalink: projects/
+
+---
+
+{% for page in site.pages %}
+{% if page.category == 'projects' %}
+	<article>
+		<h3><a href="{{page.url}}">{{page.title}}</a></h3>
+		<section class="post-preview">
+			{% if page.permalink != '' %}<img src="{{page.thumbnail}}">{% endif %}
+			<p>{{page.excerpt}}</p>
+		</section>
+		<footer>
+			<a href="{{page.url}}">Read More &raquo;</a>
+		</footer>
+	</article>
+	{% unless forloop.last %}
+	<hr>
+	{% endunless %}
+{% endif %}
+{% endfor %}

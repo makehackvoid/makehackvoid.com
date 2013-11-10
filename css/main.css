@@ -6,3 +6,17 @@ body {
 ul.nav li.dropdown:hover ul.dropdown-menu{
     display: block;    
 }
+
+.post-preview img {
+	float: right;
+	width: 150px;
+	height: 150px;
+}
+
+.post-preview:after {
+   content: " "; /* Older browser do not support empty content */
+   visibility: hidden;
+   display: block;
+   height: 0;
+   clear: both;
+}

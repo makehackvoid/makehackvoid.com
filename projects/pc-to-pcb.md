@@ -1,3 +1,13 @@
+---
+layout: default
+title: PC to PCB
+permalink: projects/pc-to-pcb/
+category: projects
+excerpt: How do you get an Eagle File etched onto a PCB in 30 minutes? This technique is some amalgamations of various how-tos and guides I've read on the internet over the years - so many aspects are probably famliar to some of you.
+thumbnail: /assets/projects/pc-to-pcb/thumbnail.png
+
+---
+
 ![](http://farm7.staticflickr.com/6107/6344748357_ae2ab4b82b_z.jpg)
 
 ***(Now on [Hack a Day](http://hackaday.com/2011/11/25/etching-your-own-pcbs/) - I'm chuffed!  :) )***
