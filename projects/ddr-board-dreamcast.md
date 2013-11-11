@@ -3,7 +3,7 @@ layout: default
 title: DDR board for the Dreamcast
 permalink: projects/ddr-board-dreamcast/
 category: projects
-excerpt:
+excerpt: A DDR (Dance Dance Revolution) board for the Dreamcast.
 
 ---
 
@@ -53,48 +53,48 @@ I will let the pictures speak for themselves but it is made of MDF with thin alu
 
 
 
--------------------------------
+---
 
 **Nice one!**
 *angusgr — Fri, 11/06/2010 - 10:07am*
 Nice one! What are the switch contacts on the pads made out of? Any problems with durability?
 
-	**The contacts are just micro switches**
-	*Combust — Tue, 15/06/2010 - 10:16am*
-	The contacts are just micro switches that are in contact with the polycarbonate squares. The mounting points for them are adjustable so you can minimise issues with timing.
+    **The contacts are just micro switches**
+    *Combust — Tue, 15/06/2010 - 10:16am*
+    The contacts are just micro switches that are in contact with the polycarbonate squares. The mounting points for them are adjustable so you can minimise issues with timing.
 
-	All I can say is its solid. No problems with anything wearing out so far Smile
+    All I can say is its solid. No problems with anything wearing out so far Smile
 
 **Plans/Parts**
 *pd12 — Tue, 22/06/2010 - 7:45pm*
 Will you be posting the plans/parts that you used?
 
-	**I think ill be able to do**
-	*Combust — Wed, 23/06/2010 - 10:43am*
-	I think ill be able to do that. It was created by me so there are no plans as such but I can definately give dimensions and materials (And tips!). Give me a few days and ill get them together.
+    **I think ill be able to do**
+    *Combust — Wed, 23/06/2010 - 10:43am*
+    I think ill be able to do that. It was created by me so there are no plans as such but I can definately give dimensions and materials (And tips!). Give me a few days and ill get them together.
 
-		**Few weeks, 3 months...**
-		*Combust — Tue, 21/09/2010 - 10:24am*
-		Few weeks, 3 months... hehe
+        **Few weeks, 3 months...**
+        *Combust — Tue, 21/09/2010 - 10:24am*
+        Few weeks, 3 months... hehe
 
 
 
-		No dimentions yet but i have the following materials:
+        No dimentions yet but i have the following materials:
 
-		MDF 200mm from memory = Bunnings
+        MDF 200mm from memory = Bunnings
 
-		Thin sheet aluminium (Thinner the better) = Bunnings
+        Thin sheet aluminium (Thinner the better) = Bunnings
 
-		L-Brackets (Shelf?) = Bunnings
+        L-Brackets (Shelf?) = Bunnings
 
-		Microswitches = Jaycar
+        Microswitches = Jaycar
 
-		Microswitch brackets = Scrap metal bent to a 'Z' shape
+        Microswitch brackets = Scrap metal bent to a 'Z' shape
 
-		Contact cement = Bunnings
+        Contact cement = Bunnings
 
-			**Thank you!**
-			*pd12 — Fri, 24/09/2010 - 1:27am*
-			Cool, thanks!
+            **Thank you!**
+            *pd12 — Fri, 24/09/2010 - 1:27am*
+            Cool, thanks!
 
-			I'll put this into my list of projects to do =)
+            I'll put this into my list of projects to do =)
