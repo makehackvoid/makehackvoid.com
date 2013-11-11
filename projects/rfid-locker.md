@@ -7,9 +7,6 @@ excerpt: It took me a little a few hours and couple brews to install the lock. T
 
 ---
 
-RFID Access For Locker - Journal
-====================
-
 *Australian Robotics — Sat, 12/02/2011 - 6:21pm*
 
 ![Locker Done](/assets/projects/rfid-locker/rfidLockerDone.jpg)
