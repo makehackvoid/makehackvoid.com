@@ -44,12 +44,12 @@ Make, Hack, Void, Inc. is a non-profit association, incorporated in the ACT. Our
 If you need to contact someone on the committee please use these email links:
 
 * [Adam Thomas, President](mailto:president@makehackvoid.com)
-* [Alastair D'Silva, Vice President](mailto:vicepresident@makehackvoid.com)
-* [Max Bainrot, Secretary](mailto:secretary@makehackvoid.com)
-* [Brenda Moon, Treasurer](mailto:treasurer@makehackvoid.com)
+* [Brenda Moon, Vice President](mailto:brenda@moon.net.au)
+* [Calum Spring, Secretary](mailto:secretary@makehackvoid.com)
+* [Tim Suess, Treasurer](mailto:treasurer@makehackvoid.com)
 * Geoff Swan
-* Anton Wood
-* [Lachlan Horne](mailto:lachlan.s.horne@gmail.com)
+* Janet McKinney
+* [Cameron Moon](mailto:cameron@moon.net.au)
 
 ## Twitter
 
