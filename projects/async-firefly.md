@@ -21,4 +21,4 @@ For those wondering where the digital part is; it's in the 555 timer.
 
 Here's a test video of one laid out on protoboard, one complete and one partially complete on a breadboard:
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/cxVXot_unxU?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="//www.youtube.com/embed/cxVXot_unxU?feature=player_embedded" frameborder="0" allowfullscreen="true"></iframe>

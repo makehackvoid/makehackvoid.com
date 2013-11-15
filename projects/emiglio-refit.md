@@ -31,11 +31,11 @@ With the base fully separated from the body we set about testing the motor contr
 
 It didn't go as well as we had hoped...
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/FblgAup3kF8?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="//www.youtube.com/embed/FblgAup3kF8?feature=player_embedded" frameborder="0" allowfullscreen="true"></iframe>
 
 ...but we had a plan!
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/UHihTrK7bEM?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="//www.youtube.com/embed/UHihTrK7bEM?feature=player_embedded" frameborder="0" allowfullscreen="true"></iframe>
 
 It's a start anyway.
 

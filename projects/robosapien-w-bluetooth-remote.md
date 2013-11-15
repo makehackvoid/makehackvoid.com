@@ -96,33 +96,33 @@ I wrote a quick Arduino [sketch to read IR pulse codes](http://www.makehackvoid.
 
 Here is the main part of the sketch:
 
-```
-void loop()
-{
-    unsigned char val = 0;
-    unsigned long start, ts, dur;
-  
-    while(digitalRead(irPin)) { 
-        start = micros(); 
-    }
-    
-    while(!digitalRead(irPin)) { // preamble is 8ts spent low, use to sync clocks
-        ts = (micros() - start) / 8;
-    }
-    
-    for(char b = 7; b >= 0; b--) {
-        start = micros();
+
+    void loop()
+    {
+        unsigned char val = 0;
+        unsigned long start, ts, dur;
+      
         while(digitalRead(irPin)) { 
-          dur = micros() - start;
+            start = micros(); 
         }
-        if(dur > ts*2)
-            val |= 1<<b;             
-        while(!digitalRead(irPin)) { }      
+        
+        while(!digitalRead(irPin)) { // preamble is 8ts spent low, use to sync clocks
+            ts = (micros() - start) / 8;
+        }
+        
+        for(char b = 7; b >= 0; b--) {
+            start = micros();
+            while(digitalRead(irPin)) { 
+              dur = micros() - start;
+            }
+            if(dur > ts*2)
+                val |= 1<<b;             
+            while(!digitalRead(irPin)) { }      
+        }
+        
+        Serial.println(val, HEX);          
     }
-    
-    Serial.println(val, HEX);          
-}
-```
+
 
 One of the nice things about this code is it doesn't make any assumptions about the clock rate of the sender, it works it out from the timing on the wire. However, as you can see, it's not ready for any kind of serious use - for instance, it can easily infinite loop if the signal on the wire doesn't match what it's expecting.
 
@@ -134,82 +134,82 @@ Writing IR Signals
 
 Reading IR signals is a bit boring, so I wrote a second [sketch to write some commands](http://www.makehackvoid.com/sites/default/files/user7/RoboLoop.tgz) out to the robot. This is a "dumb loop" that just writes the same sequence of commands, to make the robot go through a little routine:
 
-```
-void loop()
-{
-    writeCommand(leftArmUp);
-    delay(2000);
-    writeCommand(walkForward);
-    delay(3000);
-    writeCommand(rightArmUp);
-    delay(2000);
-    writeCommand(turnLeft);
-    delay(3000);
-    writeCommand(stopMoving);
-    delay(500);
-    writeCommand(burp);
-    delay(3000);   
-}
-```
+
+    void loop()
+    {
+        writeCommand(leftArmUp);
+        delay(2000);
+        writeCommand(walkForward);
+        delay(3000);
+        writeCommand(rightArmUp);
+        delay(2000);
+        writeCommand(turnLeft);
+        delay(3000);
+        writeCommand(stopMoving);
+        delay(500);
+        writeCommand(burp);
+        delay(3000);   
+    }
+
 
 
 The commands were copied from AiboPet's page and then written as an enumerated type:
 
-```
-enum roboCommand {
-    // only a very small subset of commands
-    turnRight = 0x80,
-    rightArmUp = 0x81,
-    rightArmOut = 0x82,
-    tiltBodyRight = 0x83,
-    rightArmDown = 0x84,
-    rightArmIn = 0x85,
-    walkForward = 0x86,
-    walkBackward = 0x87,
-    turnLeft = 0x88,
-    leftArmUp = 0x89,
-    leftArmOut = 0x8A,
-    tiltBodyLeft = 0x8B,
-    leftArmDown = 0x8C,
-    leftArmIn = 0x8D,
-    stopMoving = 0x8E,
-   
-    // noises
-    whistle = 0xCA,
-    roar = 0xCE,
-    burp = 0xC2 
-};
-```
+
+    enum roboCommand {
+        // only a very small subset of commands
+        turnRight = 0x80,
+        rightArmUp = 0x81,
+        rightArmOut = 0x82,
+        tiltBodyRight = 0x83,
+        rightArmDown = 0x84,
+        rightArmIn = 0x85,
+        walkForward = 0x86,
+        walkBackward = 0x87,
+        turnLeft = 0x88,
+        leftArmUp = 0x89,
+        leftArmOut = 0x8A,
+        tiltBodyLeft = 0x8B,
+        leftArmDown = 0x8C,
+        leftArmIn = 0x8D,
+        stopMoving = 0x8E,
+       
+        // noises
+        whistle = 0xCA,
+        roar = 0xCE,
+        burp = 0xC2 
+    };
+
 
 Finally, here is the simple function that writes commands onto the wire. For writing, the time slice per bit is hard-coded at 833us:
 
-```
-void delayTs(unsigned int slices) {
-    delayMicroseconds(tsDelay * slices); 
-}
-```
+
+    void delayTs(unsigned int slices) {
+        delayMicroseconds(tsDelay * slices); 
+    }
 
 
-```
-void writeCommand(unsigned char cmd)
-{
-    pinMode(irPin, OUTPUT);
 
-    // preamble
-    digitalWrite(irPin, LOW);
-    delayTs(8);
-    
-    for(char b = 7; b>=0; b--) {
-        digitalWrite(irPin, HIGH);
-        delayTs( (cmd & 1<<b) ? 4 : 1 );
+
+    void writeCommand(unsigned char cmd)
+    {
+        pinMode(irPin, OUTPUT);
+
+        // preamble
         digitalWrite(irPin, LOW);
-        delayTs(1);        
-    } 
-  
-    digitalWrite(irPin, HIGH);
-    pinMode(irPin, INPUT);
-}
-```
+        delayTs(8);
+        
+        for(char b = 7; b>=0; b--) {
+            digitalWrite(irPin, HIGH);
+            delayTs( (cmd & 1<<b) ? 4 : 1 );
+            digitalWrite(irPin, LOW);
+            delayTs(1);        
+        } 
+      
+        digitalWrite(irPin, HIGH);
+        pinMode(irPin, INPUT);
+    }
+
 
 Once this sketch was running the robot wandered around in a circle, burping. But it wasn't very interactive, so that's a bit dull.
 
@@ -239,7 +239,7 @@ The sketch file also include a simple Python module, robo_control.py. This modul
 
 Here's a video of him wandering around my kitchen, under Python control:
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/ZRv2Tos-uhw?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="//www.youtube.com/embed/ZRv2Tos-uhw?feature=player_embedded" frameborder="0" allowfullscreen="true"></iframe>
 
 Range on the Bluetooth serial modules seems pretty good. I could still control the robot (blind) at the other end of our apartment, three rooms away from the computer and around two corners!
 
