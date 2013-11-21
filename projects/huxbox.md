@@ -1,0 +1,182 @@
+---
+layout: default
+title: HuxBox - a box for the space's Rep Rap Huxley 3D printer
+permalink: projects/huxbox/
+category: projects
+excerpt: I designed and made an acrylic box to hold our Rep Rap Pro Huxley 3d printer.
+
+---
+
+*angusgr — Sun, 05/08/2012 - 10:53pm*
+
+I designed and made an acrylic box to hold our Rep Rap Pro Huxley 3d
+printer.
+
+[![](/assets/projects/huxbox/huxbox1.jpg)](/assets/projects/huxbox/huxbox1.jpg)
+
+[![Huxbox rear view](/assets/projects/huxbox/huxbox3.jpg)](/assets/projects/huxbox/huxbox3.jpg)
+
+Why Box In a Printer?
+---------------------
+
+The main reason was to ensure stable and warm temps, for tidy prints.
+Being a large warehouse-like space, MHV is prone to cold draughts during
+winter. In fact, some winter days the heated printer bed was having
+trouble getting up to temperature at all due to heat lost in the
+surrounding air!
+
+Draughts also seem to effect the clean deposition of layers. I didn't do
+a complete test, but here are two prints I did on consecutive Saturdays:
+
+[![Photo of test prints with and without box](/assets/projects/huxbox/huxbox12.jpg)](/assets/projects/huxbox/huxbox12.jpg)
+
+Neither print is what I'd call a "success." However, the left hand print
+was done in open air, and the edge on it is much more ragged than the
+right hand print, which was done in the cardboard box prototype.
+
+Also, dust is an enemy of printer extruders. MHV is a dusty space.
+
+MAJOR EDIT OCTOBER 2012
+-----------------------
+
+So, the box may not be a net gain for the printer. In the dead of winter
+it certainly seemed to help. However, now that temperatures are much
+warmer it seems like boxing the printer in has some negative effects -
+layers stay warm and soft longer, so the printer is more prone to
+"smoosh" them around when the next layer is laid down. Leading to uneven
+prints. You can mitigate this by using the Cool plugin in Skeinforge (or
+Slow Down in Slic3r) to make sure each layer takes a minimum time.
+However for now - in temperate weather - we've just removed the box
+altogether. In fact we've been experimenting with active cooling,
+sending a smooth and even flow of air over the entire print gives
+noticably good results as well. More experimentation with different
+object sizes & styles would give us more information, especially once
+winter comes back and the workshop cools down again!
+
+ 
+
+Design
+------
+
+I wanted a design that matched the printer's form closely, not a square
+box.
+
+I started out with some ideas about 3D printing angled brackets and
+drilling holes in the acrylic to hold them together. However, after lots
+of consultation with other MHV members I was convinced that the way to
+work with acrylic was to "weld" it together with chemical acrylic
+welder.
+
+So I came up with this design. Lots of high school trigonometry to get
+the angles right! 
+
+![HuxBox design](/assets/projects/huxbox/huxbox-design.png)
+
+You can [download the original SVG vector file on thingiverse](http://www.thingiverse.com/thing:27980).
+
+The sections, from left to right, are: Rear panel, front door, outlined
+front panel (door closes against this, provides rigidity for box), left
+side panel, right side panel.
+
+There is a slot on the left side panel, leading from the base up to the
+filament feedthrough. This allows you to lift the whole box off the
+printer, without disturbing the filament. Lifting the box off is very
+useful for changing flament or performing maintenance, but in day to day
+operation you can just open the front door and reach in.
+
+The other cutout recess on the left side is for the power and USB cables
+to get out.
+
+Prototype
+---------
+
+What's a cheap and plentiful prototyping material? Cardboard! This
+prototype was to test the fundamental idea, and to ensure the design
+cleared the printer on all sides:
+
+[![Cardboard prototype](/assets/projects/huxbox/huxbox11.jpg)](/assets/projects/huxbox/huxbox11.jpg)
+
+Limited visibility meant leaving a hole in the cardboard front rather
+than a hinged door, though. Draughty!
+
+[![Draughty cardbord box](/assets/projects/huxbox/huxbox10.jpg)](/assets/projects/huxbox/huxbox10.jpg)
+
+Still, the printer warmed up faster and print quality seemed better.
+Time to make a more fireproof, less opaque, version!
+
+Building
+--------
+
+The design was CNC cut in 6mm clear acrylic by a local plastics
+shop, [Plastic Creations](http://www.plasticcreations.com.au/). 6mm
+acrylic is probably overkill, but I shared a sheet of acrylic with
+someone who was building an aquarium and needed the extra thickness.
+
+I collected the sheets, covered in protective paper, from Plastic
+Creations along with a needle-tipped dispenser full of Weld-On thin
+acrylic welding solvent.
+
+**Important: Weld-On is easy to use and makes really powerful joins, but
+it's a very nasty chemical. If you're using it, read the safety
+information and take every precaution!**
+
+Putting the box together was a case of making a simple jig to put two
+pieces together, then using the needle dispenser to run Weld-On along
+the inside edge of the joint. Capillary action pulls the weldon into the
+joint itself.
+
+After 10 minutes or so the welded joint was solid enough to move on to
+the next side:
+
+[![Huxbox construction](/assets/projects/huxbox/huxbox6.jpg)](/assets/projects/huxbox/huxbox6.jpg)
+
+[![Huxbox construction 3](/assets/projects/huxbox/huxbox7.jpg)](/assets/projects/huxbox/huxbox7.jpg)
+
+[![Huxbox construction 3](/assets/projects/huxbox/huxbox8.jpg)](/assets/projects/huxbox/huxbox8.jpg)
+
+Thanks to Werner for his expertise in simple jig construction, and Kim
+for her general assembly assistance.
+
+I found CNC cut acrylic to be exceptionally easy to work with as a
+beginner! Safety concerns aside, the Weld-On solvent is near-magical!
+
+Attaching the door was the last part. I did this a day later, so the
+other joints had time to cure.
+
+I'd picked up some clear acrylic piano hinges from Plastic Creations.
+First I chemically welded them to the side of the box, then taped &
+clamped the door in place and welded them to the door:
+
+[![Huxbox door attachment](/assets/projects/huxbox/huxbox9.jpg)](/assets/projects/huxbox/huxbox9.jpg)
+
+I wouldn't do it this way again:
+
+-   Piano hinges are longer and thinner than necessary, and because
+    they're long even a small amount of flex due to the door weight
+    causes them to sag and foul the hinge barrel at the bottom. I     should
+    have found some alternative hinges. The only thing you need to make
+    sure of is that the hinge flanges are wide enough to reach around
+    the door on the side, past the 6mm edge of the door to the box
+    behind it (an "over the edge" hinge setup.)
+-   I should have welded them to the door first with the door sitting
+    flat, then attached the door to the frame.
+
+As a result of my poor choices, the door hinges were very creaky and
+stiff until Jess noticed some parts of the flange were fouling as they
+turned. A delicate application of the dremel cleaned them up, but it
+would have been better to have avoided the whole fiasco!
+
+If I did this over again, I would consider CNC drilling mounting holes
+and then screwing metal hinges into the door & side panel.
+
+
+Results
+-------
+
+Box looks good, printer prints well and has been serving MHV nicely
+through a somewhat chilly & draughty winter!
+
+My initial trepidation with acrylic is long gone, I can't wait for
+another excuse to build with it!
+
+[![3D printer fans](/assets/projects/huxbox/huxbox4.jpg)](/assets/projects/huxbox/huxbox4.jpg)
