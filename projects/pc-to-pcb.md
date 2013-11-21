@@ -220,4 +220,13 @@ Maybe not as pretty as an EZPCB Board - but damn - 25minutes! :)
 
 Happy PCB Manufacturing everyone - and please comment or ask me any questions below. All images are available in higher res via [my Flickr! stream](http://www.flickr.com/photos/ozadr1an/sets/72157628003599589/) as well.
 
+---
+**Brother printers**
+*nickwest — Fri, 16/03/2012 - 8:36pm*
+Choice of printer is important here - not all laser printer toners are created equal, and each brand will have slightly different melting points. For example, the cheap Brother laser I first tried DOES NOT WORK. I tried 40 passes through the (cheap Lowell from Officeworks) laminator and about 6 minutes of ironing with Press N Peel film and couldn't get anything more than about 10% of my artwork to transfer, and the tracks that did transfer adhered very poorly to the copper. I then tried a Kyocera laser printer, again with Press N Peel film, and it worked 100% perfectly. The toner has stuck well to the copper after about 4 minutes of ironing, and probably requires less time than this. I haven't tried the laminator yet but I'll give it a shot on my next board. Thanks Adr1an for the informative guide!
+
+
+**HP paper has changed; and Brother bad, Laserjet good**
+*af3556 — Fri, 24/08/2012 - 12:28am*
+The "HP Everyday Photopaper" I bought today at Officeworks didn't work at all - the paper seems totally impervious to water. Even after about 10 minutes in water it hadn't absorbed a drop. Probably good for photos but lousy for PCB transfer. I guess they've changed the product - today's pack is 200 gsm and has a completely black background package. I found much better results with a pack of ultra-cheap, 100gsm officeworks brand inkjet photo paper. Also, I'll second the other comment re. Brother printers: my Brother HL-5350DN printer, excellent in all other respects, just wouldn't let go of the toner. A friend's 10 year old HP Laserjet worked a treat. Thanks, Ben
 
