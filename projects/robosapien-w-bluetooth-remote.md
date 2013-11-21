@@ -288,4 +288,3 @@ Now a bluetooth controlled the size of a small child would be an interesting bui
 *herman112 (not verified) — Fri, 22/02/2013 - 12:42pm*
 Hi, I love what you have done here and have recently picked up a couple of cheap Robosapiens with the idea of doing something similar. I can follow most of what you have done here but the part that I am falling down on is the sktech to send the commands to the IR pin. Is there any chance you can explain how this works? I'm trying to code it using Python and a Raspberry Pi but am struggling to understand quite whats happening as my C knowledge is pretty limited.
 
-
