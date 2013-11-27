@@ -20,7 +20,7 @@ Quite a few of our members, and interested non members hang out on our IRC (Inte
 
 ### Mailing Lists
 
-If you are not familiar with mailing lists, please read our [mailing list guidelines](mailinglist-guidelines).
+If you are not familiar with mailing lists, please read our [mailing list guidelines](mailing-list-guidelines).
 
 * The [Makers mailing list](http://www.makehackvoid.com/mailman/listinfo/committee) is used for informal discussion of projects and news, interesting thinkgs people are doing or thinking about. High volume list (approx 2-8 messages per day.)
   * [Subscribe or Unsubscribe](http://www.makehackvoid.com/mailman/listinfo/makers)
