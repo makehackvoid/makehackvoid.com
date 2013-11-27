@@ -69,7 +69,7 @@ Getting There
 
 The space is a twelve minute drive from Civic. We have a sign on the street:
 
-![street sign](/sites/default/files/mhv-sign.jpg)
+![street sign](/assets/our-space/mhv-sign.jpg)
 
 ACTION bus number 39 stops just around the corner on Bradfield St. Buses
 936 & 937 stop a ten minute walk away on Antill St. Many other buses
