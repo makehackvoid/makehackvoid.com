@@ -1,19 +1,20 @@
 ---
 layout: default
 title: Our Space
-permalink: /ourspace
+permalink: /our-space
 ---
 
 The Make, Hack, Void space on a quiet afternoon (in 2011):
 
-[![Space panorama](/assets/our-space/mhv-space-thumb.jpg)](/assets/our-space/mhv-space-large.jpg)
+![Space panorama](/assets/our-space/mhv-space-thumb.jpg)
 
 Some times when there have been more people around:
 
-[![People in the space](/assets/our-space/medium_space-people-1.jpg)](/assets/our-space/space-people-1.jpg)
-[![People in the space](/assets/our-space/medium_space-people-2.jpg)](/assets/our-space/space-people-2.jpg)
-[![People in the space](/assets/our-space/medium_space-people-3.jpg)](/assets/our-space/space-people-3.jpg)[![People in the space](/assets/our-space/medium_space-people-4.jpg)](/assets/our-space/space-people-4.jpg)
-[![People in the space](/assets/our-space/medium_space-people-5.jpg)](/assets/our-space/space-people-5.jpg)
+![People in the space](/assets/our-space/medium_space-people-1.jpg)
+![People in the space](/assets/our-space/medium_space-people-2.jpg)
+![People in the space](/assets/our-space/medium_space-people-3.jpg)
+![People in the space](/assets/our-space/medium_space-people-4.jpg)
+![People in the space](/assets/our-space/medium_space-people-5.jpg)
 
 Not shown: machine area, junk area piled high with (organised) junk, computers, tools, CNC gear. [More photos on flickr](http://www.flickr.com/groups/makehackvoid/).
 
@@ -68,7 +69,7 @@ Getting There
 
 The space is a twelve minute drive from Civic. We have a sign on the street:
 
-![](/sites/default/files/mhv-sign.jpg)
+![street sign](/sites/default/files/mhv-sign.jpg)
 
 ACTION bus number 39 stops just around the corner on Bradfield St. Buses
 936 & 937 stop a ten minute walk away on Antill St. Many other buses
