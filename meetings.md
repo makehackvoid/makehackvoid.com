@@ -15,9 +15,9 @@ Maker Meetups
 
 First, third and fifth Tuesdays of every month are Maker Meetups. 6:15pm at [the space](/community/our-space).  You can [check the calendar for exact dates](https://www.google.com/calendar/embed?src=s9j75t8siijp625kfmjob13rv4%40group.calendar.google.com&ctz=Australia/Sydney). 
 
-At Maker Meetups you can check out the Hackerspace, meet interesting people in Canberra’s Maker community and see the cool stuff people are working on. If you’ve been working on something that you’d like to share, you’ll find plenty of people keen to hear about your progress and the challenges you’ve faced. You can bounce ideas around, compare notes or draw on collective experience and knowledge to help progress through tricky parts of your projects.
+At Maker Meetups you can check out the Makerspace, meet interesting people in Canberra’s Maker community and see the cool stuff people are working on. If you’ve been working on something that you’d like to share, you’ll find plenty of people keen to hear about your progress and the challenges you’ve faced. You can bounce ideas around, compare notes or draw on collective experience and knowledge to help progress through tricky parts of your projects.
 
-Most people who come to Maker Meetups aren’t MHV members, there’s no pressure to become one. Everyone is welcome - all ages, interests and skill levels. Access to Maker Meetups is free for members and non-members.
+Many people who come to Maker Meetups aren’t MakeHackVoid members, there’s no pressure to become one. Everyone is welcome - all ages, interests and skill levels. Access to Maker Meetups is free for members and non-members.
 
 Because the space is a workshop, you will need to wear covered shoes. If you want to work with the tools in the space then you’ll need to join in order to do that - see [membership](/community/membership).
 
@@ -40,4 +40,6 @@ The space is open for members lots of times through the week.
 Committee Meetings
 ================
 
-The committee meets when needed to deal with “running the Hackerspace”. These meetings are administrative not Maker-oriented. If you're interested in committee business, you can check out the [committee mailing list](http://www.makehackvoid.com/mailman/listinfo/committee).
+The committee meets when needed to deal with administration of MakeHackVoid. Committee meetings appear in the [community calendar](https://www.google.com/calendar/embed?src=s9j75t8siijp625kfmjob13rv4%40group.calendar.google.com&ctz=Australia/Sydney). If you're interested in committee business, you can check out the [committee mailing list](/contacts#committee-mailing-list) or speak to any of the [committee members](/contacts#committee).
+
+
