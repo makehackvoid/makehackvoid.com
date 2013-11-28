@@ -5,7 +5,7 @@ permalink: join/
 
 ---
 
-Outside of [Maker Meetups](/community/meetings), become a member to take advantage of MHV’s facilities and support our community. Membership has three components;
+Outside of [Maker Meetups](/meetings), become a member to take advantage of MHV’s facilities and support our community. Membership has three components;
 
 * **Annual Membership**
 * **Access** Members pay monthly or per visit access for their use of the MHV space.
@@ -36,12 +36,13 @@ What MHV membership entitles you to:
 |Come to Maker Meetups.|Yes|Yes|
 |Take part in the online community - mailing lists, website, etc.|Yes|Yes|
 |Come to the space whenever it is open.||Yes|
-|Post projects or news on www.makehackvoid.com.||Yes|
+|Post projects or news on website||Yes|
+|Post projects or news on wiki|Yes|Yes|
 |Work with the space’s computers, hand tools, most electronics tools, some power tools, etc.||Yes|
 |Use components or salvage from the Junk Area.||Yes|
 |Work with high risk or complex tools that require induction (bandsaw, isolation transformer, CNC machines, etc.)||Yes|
 |Have their own locker or personal storage area in the space.||Yes|
-|Have an account on the space’s server & workstations (different to makehackvoid.com.)||Yes|
+|Have an account on the space’s server & workstations||Yes|
 |Vote at the AGM and other meetings||Yes|
 |Support something awesome in Canberra!||Yes|
 
