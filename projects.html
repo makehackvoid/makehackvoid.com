@@ -5,8 +5,7 @@ permalink: projects/
 
 ---
 
-{% for page in site.pages %}
-{% if page.category == 'projects' %}
+{% for page in site.categories.projects %}
 	<article>
 		<h3><a href="{{page.url}}">{{page.title}}</a></h3>
 		<section class="post-preview">
@@ -20,5 +19,4 @@ permalink: projects/
 	{% unless forloop.last %}
 	<hr>
 	{% endunless %}
-{% endif %}
 {% endfor %}

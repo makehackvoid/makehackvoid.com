@@ -2,7 +2,6 @@
 layout: default
 title: ASync-Firefly
 permalink: projects/async-firefly/
-category: projects
 excerpt: An Analog Synchronising Firefly very heavily inspired by the Synchronising Firefly kit from Alex at Tinkerlog.
 
 ---
