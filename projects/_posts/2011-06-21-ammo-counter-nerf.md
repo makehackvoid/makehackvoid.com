@@ -3,6 +3,7 @@ layout: default
 title: Ammo Counter for Nerf Gun
 permalink: projects/ammo-counter-nerf/
 excerpt: The ammo counter, the most ubiquitous and humble of FPS game elements, but completely absent from Nerf combat (apart from some transparent magazines). I decided to remedy this!
+thumbnail: /assets/projects/ammo-counter-nerf/thumbnail.jpg
 
 ---
 

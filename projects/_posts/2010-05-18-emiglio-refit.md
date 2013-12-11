@@ -3,6 +3,7 @@ layout: default
 title: Emiglio Refit
 permalink: projects/emiglio-refit/
 excerpt: Refitting an Emiglio/Scooter robot with new control systems.
+thumbnail: /assets/projects/emiglio-refit/thumbnail.jpg
 
 ---
 
