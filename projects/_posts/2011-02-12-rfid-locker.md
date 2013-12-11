@@ -3,6 +3,7 @@ layout: default
 title: RFID Access For Locker - Journal
 permalink: projects/rfid-locker/
 excerpt: It took me a little a few hours and couple brews to install the lock. The whole assembly fit's quite nicely on the inside of the door, and the RFID action is quite reliable. Next step, RFID the rolling shed doors!
+thumbnail: /assets/projects/rfid-locker/thumbnail.jpg
 
 ---
 

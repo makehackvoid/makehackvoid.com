@@ -3,6 +3,7 @@ layout: default
 title: DDR board for the Dreamcast
 permalink: projects/ddr-board-dreamcast/
 excerpt: A DDR (Dance Dance Revolution) board for the Dreamcast.
+thumbnail: /assets/projects/ddr-board-dreamcast/thumbnail.jpg
 
 ---
 

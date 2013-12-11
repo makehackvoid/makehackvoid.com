@@ -9,7 +9,7 @@ permalink: projects/
 	<article>
 		<h3><a href="{{page.url}}">{{page.title}}</a></h3>
 		<section class="post-preview">
-			{% if page.permalink != '' %}<img src="{{page.thumbnail}}">{% endif %}
+			{% if page.permalink != '' and page.thumbnail %}<img src="{{page.thumbnail}}">{% endif %}
 			<p>{{page.excerpt}}</p>
 		</section>
 		<footer>
