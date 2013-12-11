@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Our Space
-permalink: /our-space
+permalink: our-space/
 ---
 
 The Make, Hack, Void space on a quiet afternoon (in 2011):
