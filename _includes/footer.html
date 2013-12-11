@@ -5,5 +5,6 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="/js/jquery.js"></script>
     <script src="/bootstrap/js/bootstrap.min.js"></script>
+    {% if page.js == true %}<script src="/js/pages/{{page.path | replace: '.html', '.js' | replace: '.md', '.js'}}"></script>{% endif %}
   </body>
 </html>
