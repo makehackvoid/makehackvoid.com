@@ -2,7 +2,6 @@
 layout: default
 title: Space Probe
 permalink: projects/space-probe/
-category: projects
 excerpt: Need to tell people when the Hackerspace is open for hacking? Use the Space Probe! It tweets & emails to let people know when the space opens and closes.
 
 ---
