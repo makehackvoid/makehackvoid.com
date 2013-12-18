@@ -25,11 +25,9 @@ If you are not familiar with mailing lists, please read our [mailing list guidel
 * The [Makers mailing list](http://www.makehackvoid.com/mailman/listinfo/committee) is used for informal discussion of projects and news, interesting thinkgs people are doing or thinking about. High volume list (approx 2-8 messages per day.)
   * [Subscribe or Unsubscribe](http://www.makehackvoid.com/mailman/listinfo/makers)
   * [Makers Archives](http://www.makehackvoid.com/pipermail/makers/)
-
 * The [Committee mailing list](http://www.makehackvoid.com/mailman/listinfo/committee) is the best way to contact the entire MHV committee outside of a committee meeting. You can post to this list without subscribing first by just sending an email to [committee@makehackvoid.com](committee@makehackvoid.com), although your post will be delayed until the list administrator has a chance to approve it.
-   * [Subscribe or Unsubscribe](http://www.makehackvoid.com/mailman/listinfo/committee)
+  * [Subscribe or Unsubscribe](http://www.makehackvoid.com/mailman/listinfo/committee)
   * [Committee Archives](http://www.makehackvoid.com/pipermail/committee/)
-
 * [Announcements mailing list](http://www.makehackvoid.com/mailman/listinfo/mhv-announce) Subscribe to receive notice of events, space openings or important news. Low volume list (approx 0-1 messages per day.)
   * [Subscribe or Unsubscribe](http://www.makehackvoid.com/mailman/listinfo/mhv-announce)
   * [Annoucement Archives](http://www.makehackvoid.com/pipermail/mhv-announce/)
@@ -44,11 +42,11 @@ Make, Hack, Void, Inc. is a non-profit association, incorporated in the ACT. Our
 If you need to contact someone on the committee please use these email links:
 
 * [Adam Thomas, President](mailto:president@makehackvoid.com)
-* [Brenda Moon, Vice President](mailto:brenda@moon.net.au)
+* [Brenda Moon, Vice President](mailto:vicepresident@makehackvoid.com)
 * [Calum Spring, Secretary](mailto:secretary@makehackvoid.com)
 * [Tim Suess, Treasurer](mailto:treasurer@makehackvoid.com)
-* Geoff Swan
-* Janet McKinney
+* [Geoff Swan](shinobi.jack@gmail.com)
+* [Janet McKinney](mailto:janetmckin@gmail.com)
 * [Cameron Moon](mailto:cameron@moon.net.au)
 
 ## Twitter
