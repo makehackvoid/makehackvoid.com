@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Our Space
 permalink: our-space/
 ---

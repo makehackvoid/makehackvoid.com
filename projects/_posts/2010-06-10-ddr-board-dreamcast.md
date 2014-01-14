@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: post
 title: DDR board for the Dreamcast
 permalink: projects/ddr-board-dreamcast/
 excerpt: A DDR (Dance Dance Revolution) board for the Dreamcast.
-thumbnail: /assets/projects/ddr-board-dreamcast/thumbnail.jpg
+thumbnail: /images/projects/ddr-board-dreamcast/thumbnail.jpg
 
 ---
 
@@ -11,45 +11,45 @@ thumbnail: /assets/projects/ddr-board-dreamcast/thumbnail.jpg
 
 Another (Completed!!) project is a DDR (Dance dance revolution) board for the Dreamcast.
 
-![DDR Board](/assets/projects/ddr-board-dreamcast/board.jpg)
+![DDR Board](/images/projects/ddr-board-dreamcast/board.jpg)
 
 I will let the pictures speak for themselves but it is made of MDF with thin aluminium sheet contact cemented down over the top, L-brackets and polycarbonate squares for the pads. Wiring it up was as easy as soldering to the correct buttons on the control pad.
 
-![Progress](/assets/projects/ddr-board-dreamcast/progress1.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress2.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress3.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress4.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress5.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress6.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress7.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress8.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress9.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress10.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress11.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress12.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress13.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress14.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress15.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress16.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress17.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress18.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress19.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress20.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress21.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress22.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress23.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress24.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress25.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress26.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress27.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress28.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress29.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress30.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress31.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress32.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress33.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress34.jpg)
-![Progress](/assets/projects/ddr-board-dreamcast/progress35.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress1.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress2.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress3.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress4.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress5.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress6.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress7.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress8.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress9.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress10.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress11.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress12.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress13.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress14.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress15.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress16.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress17.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress18.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress19.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress20.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress21.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress22.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress23.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress24.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress25.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress26.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress27.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress28.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress29.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress30.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress31.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress32.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress33.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress34.jpg)
+![Progress](/images/projects/ddr-board-dreamcast/progress35.jpg)
 
 
 
