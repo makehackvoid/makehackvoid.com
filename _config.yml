@@ -60,7 +60,7 @@ paginate_path: 'page:num'
 paginate: 3
 
 # Using rdiscount instead of maruku
-markdown:      redcarpet
+markdown:      maruku
 markdown_ext:  markdown,mkd,mkdn,md
 textile_ext:   textile
 
@@ -76,8 +76,8 @@ maruku:
   use_tex:    false
   use_divs:   false
   png_engine: blahtex
-  png_dir:    images/latex
-  png_url:    /images/latex
+  png_dir:    files/latex
+  png_url:    /files/latex
 
 rdiscount:
   extensions: [footnotes, smart]

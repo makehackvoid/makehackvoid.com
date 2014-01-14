@@ -6,15 +6,15 @@ permalink: our-space/
 
 The Make, Hack, Void space on a quiet afternoon (in 2011):
 
-![Space panorama](/assets/our-space/mhv-space-large.jpg)
+![Space panorama](/images/our-space/mhv-space-large.jpg)
 
 Some times when there have been more people around:
 
-![People in the space](/assets/our-space/space-people-1.jpg)
-![People in the space](/assets/our-space/space-people-2.jpg)
-![People in the space](/assets/our-space/space-people-3.jpg)
-![People in the space](/assets/our-space/space-people-4.jpg)
-![People in the space](/assets/our-space/space-people-5.jpg)
+![People in the space](/images/our-space/space-people-1.jpg)
+![People in the space](/images/our-space/space-people-2.jpg)
+![People in the space](/images/our-space/space-people-3.jpg)
+![People in the space](/images/our-space/space-people-4.jpg)
+![People in the space](/images/our-space/space-people-5.jpg)
 
 Not shown: machine area, junk area piled high with (organised) junk, computers, tools, CNC gear. [More photos on flickr](http://www.flickr.com/groups/makehackvoid/).
 
@@ -69,7 +69,7 @@ Getting There
 
 The space is a twelve minute drive from Civic. We have a sign on the street:
 
-![street sign](/assets/our-space/mhv-sign.jpg)
+![street sign](/images/our-space/mhv-sign.jpg)
 
 ACTION bus number 39 stops just around the corner on Bradfield St. Buses
 936 & 937 stop a ten minute walk away on Antill St. Many other buses

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: MHV Cryptoparty
+
+author:
+  name: Brenda Moon
 ---
 
 ![CryptoParty Logo](https://raw.github.com/cryptoparty/artwork/master/CryptoPartyLogo.png)
