@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: post
 title: Robosapien w/ Bluetooth remote control
 permalink: projects/robosapien-w-bluetooth-remote/
 excerpt: This is about a Sunday afternoon spent attaching a Seeeduino (Arduino clone) and a Bluetooth serial module to the Robosapien, then remote controlling him from a Python shell.
-thumbnail: /assets/projects/robosapien-w-bluetooth-remote/thumbnail.jpg
+thumbnail: /images/projects/robosapien-w-bluetooth-remote/thumbnail.jpg
 
 ---
 
@@ -13,7 +13,7 @@ Robosapien was a toy robot released back in 2003. One of the neat things about t
 
 This is about a Sunday afternoon spent attaching a Seeeduino (Arduino clone) and a Bluetooth serial module to the Robosapien, then remote controlling him from a Python shell.
 
-![Robo Sapiens + Seeeduino](/assets/projects/projects/robosapien-w-bluetooth-remote/robosapien.jpg)
+![Robo Sapiens + Seeeduino](/images/projects/projects/robosapien-w-bluetooth-remote/robosapien.jpg)
 
 Introduction
 ------------
@@ -27,20 +27,20 @@ Getting Inside
 
 Getting to the main control board is very easy. Begin by undoing the four screws on Robosapien's back:
 
-![Robosapiens Back Panel](/assets/projects/robosapien-w-bluetooth-remote/backpanel.jpg)
+![Robosapiens Back Panel](/images/projects/robosapien-w-bluetooth-remote/backpanel.jpg)
 
 When you remove the back panel, you'll need to unscrew the power switch and the speaker in order to take it right off:
 
-![Robosapiens power switch](/assets/projects/robosapien-w-bluetooth-remote/powerswitch.jpg)
-![Speaker cover](/assets/projects/robosapien-w-bluetooth-remote/speakercover.jpg)
-![Robosapiens speaker](/assets/projects/robosapien-w-bluetooth-remote/speaker.jpg)
+![Robosapiens power switch](/images/projects/robosapien-w-bluetooth-remote/powerswitch.jpg)
+![Speaker cover](/images/projects/robosapien-w-bluetooth-remote/speakercover.jpg)
+![Robosapiens speaker](/images/projects/robosapien-w-bluetooth-remote/speaker.jpg)
 
 The speaker is glued in, but comes out without too much trouble. Notice how the power switch has 3 spare labelled pads for you to add your own power connection. So thoughtful!
 
 Once the cover is removed, you have a naked Robosapien. The main control board is on his back:
 
-![Naked Robosapien Front](/assets/projects/robosapien-w-bluetooth-remote/front.jpg)
-![Naked Robosapien Back](/assets/projects/robosapien-w-bluetooth-remote/back.jpg)
+![Naked Robosapien Front](/images/projects/robosapien-w-bluetooth-remote/front.jpg)
+![Naked Robosapien Back](/images/projects/robosapien-w-bluetooth-remote/back.jpg)
 
 
 Control
@@ -52,11 +52,11 @@ Unplug all the connectors from the control board, then unscrew the 3 mounting sc
 
 Here is the back view. Click on the picture to zoom in. You can see that all the pins are clearly labelled.
 
-![Back of Robosapien control board](/assets/projects/robosapien-w-bluetooth-remote/back-control-board.jpg)
+![Back of Robosapien control board](/images/projects/robosapien-w-bluetooth-remote/back-control-board.jpg)
 
 I soldered jumper leads (cheap breadboard wires from ebay, cut in half) to the control board's Vcc (3.3v), Gnd, and IR OUT pins, as shown above. I used dabs of hot glue to keep the loose wires from wiggling around. Here's the jumpered control board, reinstalled:
 
-![Control board + 3 jumpers](/assets/projects/robosapien-w-bluetooth-remote/control-board.jpg)
+![Control board + 3 jumpers](/images/projects/robosapien-w-bluetooth-remote/control-board.jpg)
 
 
 Alternative Ways to Connect
@@ -84,7 +84,7 @@ Mounting the Seeeduino
 
 This was just a temporary hack, so I used a rubber band to hold the Seeeduino onto the robot, and plugged in 3.3v, GND & IR OUT (to pin 2):
 
-![Seeeduino on Robosapien](/assets/projects/robosapien-w-bluetooth-remote/seeeduino.jpg)
+![Seeeduino on Robosapien](/images/projects/robosapien-w-bluetooth-remote/seeeduino.jpg)
 
 
 Reading IR Signals
@@ -221,7 +221,7 @@ Last month Geoff, Chris & I all went in on some $10 Bluetooth-compatible serial 
 
 I intend to put up a dedicated post about these later. For now, all I did was hot glue mine to the Seeeduino and solder the Tx/Rx pins to Seeeduino pins 2 & 3. This gave me a Bluetooth serial link that I could address via a SoftSerial module (I installed the [NewSoftSerial](http://arduiniana.org/libraries/newsoftserial/) library into the Arduino environment, but MHVLib also includes a suitable software serial component.) The Bluetooth modules are 3.3v as well, so the same 5v precautions described above also apply to them.
 
-![Seeeduino + hot glue + Bluetooth serial -> cheaper than an Arduino Bluetooth!](/assets/projects/robosapien-w-bluetooth-remote/seeeduino-work.jpg)
+![Seeeduino + hot glue + Bluetooth serial -> cheaper than an Arduino Bluetooth!](/images/projects/robosapien-w-bluetooth-remote/seeeduino-work.jpg)
 
 If you don't have access to a Bluetooth module, there are lots of other options for serial wireless links. For instance, here in Australia Jaycar sell one-way [433Mhz wireless modules](http://www.jaycar.com.au/productView.asp?ID=ZW3102). Or you could use an official Arduino Bluetooth, or something like a Seeed Black Widow for a Wifi link. The nice thing about using Bluetooth is that the link is two way, and all of the connection negotiation, reliability, and error correction is handled for you by the Bluetooth protocol.
 
@@ -231,7 +231,7 @@ Bluetoothed Bot
 
 Here's a photo of the Seeeduino + Bluetooth mounted loosely to the Robosapien:
 
-![Robosapien Bluetooth!](/assets/projects/robosapien-w-bluetooth-remote/bluetoothed.jpg)
+![Robosapien Bluetooth!](/images/projects/robosapien-w-bluetooth-remote/bluetoothed.jpg)
 
 The last quick sketch I threw together reads IR commands from the Bluetooth serial link, and then writes them to the control board. If you [download it](http://www.makehackvoid.com/sites/default/files/user7/RoboRelay.tgz), you'll also need the [NewSoftSerial library](http://arduiniana.org/libraries/newsoftserial/).
 
@@ -245,7 +245,7 @@ Range on the Bluetooth serial modules seems pretty good. I could still control t
 
 Here's a screenshot of iPython, showing some of the commands you can use directly:
 
-![iPython screenshot](/assets/projects/robosapien-w-bluetooth-remote/robo-ipython.jpg)
+![iPython screenshot](/images/projects/robosapien-w-bluetooth-remote/robo-ipython.jpg)
 
 
 Where to from here?
