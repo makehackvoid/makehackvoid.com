@@ -34,9 +34,14 @@
     <header>
         <nav id="navigation">
             <a class="brand" href="/">
-                <img src="/images/{{ site.inc.logo }}" alt="Inc">
+                <!-- <img src="/files/{{ site.inc.logo }}" alt="MHV"> -->
+                MHV
             </a>
-            <a href="/our-space">About</a>
+            <a class="dropdown-toggle" data-toggle="dropdown" href="/our-space">About <b class="caret"></b></a>
+        	<ul class="dropdown-menu">
+        		<li><a href="/our-space#join" class="home">Join</a></li>
+        		<li><a href="/our-space#getting-there" class="home">Getting there</a></li>
+        	</ul>
             <a href="" class="home">Join</a>
             <a href="/blog" class="home">Blog</a>
             <a href="/projects" class="home">Projects</a>

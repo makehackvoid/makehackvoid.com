@@ -3,7 +3,7 @@ layout: post
 
 title: Jekyll Incorporated Features
 subtitle: "What's in the box"
-cover_image: blog-cover.jpg
+cover_image: our-space/our-space-panorama.jpg
 
 excerpt: "Incorporated provides a great typography, responsive design, author details, semantic markup and more."
 
@@ -100,7 +100,7 @@ inc:
 {% endhighlight %}
 
 **Zoomable images**
-<div class="full zoomable"><img src="/images/incorporated.jpg"></div>
+<div class="full zoomable"><img src="/files/incorporated.jpg"></div>
 
 **Awesome quotes**
 > “Effective companies tend to communicate more, their people are curious and they have opinions”

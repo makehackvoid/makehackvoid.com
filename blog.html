@@ -15,7 +15,12 @@ permalink: blog/
 	            <p>{{ post.excerpt }}</p>
 	            <div class="meta">
 	                Written By <address>{{ post.author.name }}</address> &mdash;
-	                <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time>
+	                <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time><br>
+	                {% if post.categories contains 'news' %}
+	                <span class="news-item">News</span>
+	                {% elsif post.categories contains 'events' %}
+	                <span class="event-item">Event</span>
+	                {% endif %}
 	            </div>
 	        </div>
 	        <hr>

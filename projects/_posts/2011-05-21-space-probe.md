@@ -3,7 +3,7 @@ layout: post
 title: Space Probe
 permalink: projects/space-probe/
 excerpt: Need to tell people when the Hackerspace is open for hacking? Use the Space Probe! It tweets & emails to let people know when the space opens and closes.
-thumbnail: /images/projects/space-probe/thumbnail.jpg
+thumbnail: /files/projects/space-probe/thumbnail.jpg
 
 ---
 
@@ -23,7 +23,7 @@ Technical Summary
 
 The Space Probe is made out of a laboratory power supply that I spotted in a dumpster and looks like this:
 
-![Space Probe](/images/projects/space-probe/spaceprobe.jpg)
+![Space Probe](/files/projects/space-probe/spaceprobe.jpg)
 
 Inside the probe enclosure is an Arduino clone wired in and using a [Freetronics EtherTen](http://www.freetronics.com/products/etherten) as an HTTP server, for a simple web API ([More info](http://www.makehackvoid.com/pipermail/makers/2012-December/004334.html)). On the router is a program written in Lua, which performs all of the probe's functions. [Source code is all online here](http://github.com/makehackvoid/mhv-space-probe).
 
