@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: post
 title: Emiglio Refit
 permalink: projects/emiglio-refit/
 excerpt: Refitting an Emiglio/Scooter robot with new control systems.
-thumbnail: /assets/projects/emiglio-refit/thumbnail.jpg
+thumbnail: /files/projects/emiglio-refit/thumbnail.jpg
 
 ---
 
@@ -13,7 +13,7 @@ thumbnail: /assets/projects/emiglio-refit/thumbnail.jpg
 
 At Make, Hack, Void we have started working on refitting an Emiglio/Scooter robot with new control systems. He was bought as a gift for one of our members from a market stall and is missing his controller. The hope to be able to extend his functionality beyond the standard factory controls while still maintaining as much of his appearance as possible.
 
-![Taken apart](/assets/projects/emiglio-refit/emiglio.jpg)
+![Taken apart](/files/projects/emiglio-refit/emiglio.jpg)
 
 Recently we spent an afternoon taking it apart to see what we can fit inside. Our initial hopes were to be able to fit a netbook or hacked Internet router inside the body to interface with sensors and actuators. During the tear down day it was determined that an EEE701 would comfortably fit inside the main body. We are also now considering using an ARM based development board like the [Blueboard-AT91RM9200](http://shop.ngxtechnologies.com/product_info.php?products_id=72&osCsid=ea842a35dd75bc709b06c001cf8e8687) from NGX or re-purposing an old iPaq we had laying around.
 

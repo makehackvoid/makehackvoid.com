@@ -1,29 +1,29 @@
 ---
-layout: default
+layout: post
 title: RFID Access For Locker - Journal
 permalink: projects/rfid-locker/
 excerpt: It took me a little a few hours and couple brews to install the lock. The whole assembly fit's quite nicely on the inside of the door, and the RFID action is quite reliable. Next step, RFID the rolling shed doors!
-thumbnail: /assets/projects/rfid-locker/thumbnail.jpg
+thumbnail: /files/projects/rfid-locker/thumbnail.jpg
 
 ---
 
 *Australian Robotics — Sat, 12/02/2011 - 6:21pm*
 
-![Locker Done](/assets/projects/rfid-locker/rfidLockerDone.jpg)
+![Locker Done](/files/projects/rfid-locker/rfidLockerDone.jpg)
 
 21 Feb 2011- Monday
 
 It took me a little a few hours and couple brews to install the lock. The whole assembly fit's quite nicely on the inside of the door, and the RFID action is quite reliable. Next step, RFID the rolling shed doors!
 
-![rfid with tag and Arduino](/assets/projects/rfid-locker/rfidWithTagArduino.jpg)
+![rfid with tag and Arduino](/files/projects/rfid-locker/rfidWithTagArduino.jpg)
 
 20 Feb, 2011 - Sunday
 
 Here's a picture of the internals of the RFID access system ready to be mounted in. The bright light is a 12v lamp that's a placeholder for the solenoid in the locker. The RFID circuit has been built from the [Freetronics RFID Lock Shield kit](http://www.australianrobotics.com.au/?q=rfidLockKit) and allows for a 12v door strike to be controlled with Arduino. The shield also features an onboard voltage regulator to power the Arduino from the 12v solenoid/strike power source. Beautifully hacked into top of the shield is a small analog beeper that gives me a tone when access is granted!
 
-![Solenoid](/assets/projects/rfid-locker/solenoid.jpg)
+![Solenoid](/files/projects/rfid-locker/solenoid.jpg)
 
-![Front of Locker](/assets/projects/rfid-locker/lockerFront.jpg)
+![Front of Locker](/files/projects/rfid-locker/lockerFront.jpg)
 
 12 Feb 2010 - Saturday
 

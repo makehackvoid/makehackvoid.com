@@ -1,22 +1,28 @@
 ---
-layout: default
+layout: base
 title: Projects
 permalink: projects/
 
 ---
-
-{% for page in site.categories.projects %}
-	<article>
-		<h3><a href="{{page.url}}">{{page.title}}</a></h3>
-		<section class="post-preview">
-			{% if page.permalink != '' and page.thumbnail %}<img src="{{page.thumbnail}}">{% endif %}
-			<p>{{page.excerpt}}</p>
-		</section>
-		<footer>
-			<a href="{{page.url}}">Read More &raquo;</a>
-		</footer>
-	</article>
-	{% unless forloop.last %}
-	<hr>
-	{% endunless %}
-{% endfor %}
+	<article class="container">
+		<h1><a href="{{post.url}}">{{post.title}}</a></h1>
+		{% for post in site.categories.projects %}
+		<section class="index">
+			<div>
+				<h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
+				{% if post.permalink != '' and post.thumbnail %}<img src="{{post.thumbnail}}">{% endif %}
+				<p>{{ post.excerpt }}</p>
+				
+                <div class="meta">
+                    {% if site.data.members[post.author]['image'] %}<img src="/images/{{ site.data.members[post.author]['image] }}" class="avatar">{% endif %}
+                    Written By <address>{{ site.data.members[post.author]['name'] }}</address> &mdash;
+                    <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time>
+                </div>
+                <a href="{{post.url}}">Read More &raquo;</a>
+            </div>
+        </section>
+        <hr />
+        {% unless forloop.last %}
+        {% endunless %}
+        {% endfor %}
+    </article>

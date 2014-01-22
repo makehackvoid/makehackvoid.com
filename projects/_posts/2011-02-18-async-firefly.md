@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: post
 title: ASync-Firefly
 permalink: projects/async-firefly/
 excerpt: An Analog Synchronising Firefly very heavily inspired by the Synchronising Firefly kit from Alex at Tinkerlog.
-thumbnail: /assets/projects/async-firefly/thumbnail.jpg
+thumbnail: /files/projects/async-firefly/thumbnail.jpg
 
 ---
 
@@ -15,7 +15,7 @@ For those unfamiliar with Alex's kit; the basic premiss is that when you set up 
 
 Using a LM555 timer and an LM393 comparator, I have implemented the main features of Alex's kit. The LM555 provides the oscillator which blinks the LED every few seconds and the LM393, together with an LDR and a low pass filter detects sharp rises in the light level and provides the signal to adjust the phase. The phase shift is achieved by switching on a transistor which allows more current to flow from the capacitor through the discharge pin on the 555, this has the advantage of only effecting the off time of the 555 so when the ASync-Fireflies are in sync they stay there. At least in theory, the imprecise nature of the analog components means there's at least some drift which makes for a really nice visual display.
 
-![](/assets/projects/async-firefly/async-firefly.png)
+![](/files/projects/async-firefly/async-firefly.png)
 
 For those wondering where the digital part is; it's in the 555 timer.
 
