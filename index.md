@@ -5,7 +5,7 @@ title: Homepage
 
 MakeHackVoid, described by Us Folk magazine as “one of Canberra’s best new creative organisations”, is a [hackerspace\*](#hackerspace) that provides ACT residents with a multi-use [workshop and meeting space in Downer](/about#our-space). MakeHackVoid is modeled on an international community of like minded spaces that started in Germany in 1995. It supports and encourages arts, science and technology culture in the ACT by providing a physical space for Canberra residents, as well as national and international visitors to meet, interact and create.
 
-[Membership]() is $50/year ($30 concession) and there are a range of [access options]().
+[Membership](/join) is $50/year ($30 concession) and there are a range of [access options](/join).
 
 We hold public [Maker Meetups](meetings/) on the 1st, 3rd &amp; 5th Tuesdays of each month. These meetups are where we invite you to join us and chat, participate in show and tell, get help or advice, or talk about your projects. You don't have to be a member to come to a Meetup.
 
