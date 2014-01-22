@@ -6,10 +6,7 @@ subtitle: "We've Moved!"
 ---
 
 Our new location in Belconnen:
-
-----
-
-{% include _ginninderra_video.html %}
+{% include _ginninderra-video.html %}
 
 ----
 
@@ -20,7 +17,7 @@ Some pictures of the old MHV space in Downer:
 
 [More photos on flickr](http://www.flickr.com/groups/makehackvoid/).
 
-We moved into our new space at Ginninderra House in Belconnen in January 2014 after being at Downer since 2011. Please come along and check us out at our next <a href="meetings.html">meetup</a>, or look into <a href="membership/index.html">Becoming a Member</a> so you can come to the space more frequently. It is currently open many times each week (check the <a target="_blank" href="https://www.google.com/calendar/embed?src=s9j75t8siijp625kfmjob13rv4%40group.calendar.google.com&amp;ctz=Australia/Sydney">calendar</a> or the mailing list.)</p>
+We moved into our new space at Ginninderra House in Belconnen in January 2014 after being at Downer since 2011. Please come along and check us out at our next <a href="meetings.html">meetup</a>, or look into <a href="membership/index.html">Becoming a Member</a> so you can come to the space more frequently. It is currently open many times each week (check the <a target="_blank" href="https://www.google.com/calendar/embed?src=s9j75t8siijp625kfmjob13rv4%40group.calendar.google.com&amp;ctz=Australia/Sydney">calendar</a> or the mailing list.)
 
 If you're not ready to come along or become a member just yet, please do join the [Makers mailing list](/contact/#mailing-list), come on the
 [IRC channel](/contact/#irc-channel), or follow us on [Twitter](http://twitter.com/makehackvoid) or [Facebook](http://www.facebook.com/group.php?gid=357947732276).
