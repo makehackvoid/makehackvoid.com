@@ -3,7 +3,7 @@ layout: home
 title: Homepage
 ---
 
-MakeHackVoid, described by Us Folk magazine as “one of Canberra’s best new creative organisations”, is a [hackerspace\*](#hackerspace) that provides ACT residents with a multi-use [workshop and meeting space in Downer](/about#our-space). MakeHackVoid is modeled on an international community of like minded spaces that started in Germany in 1995. It supports and encourages arts, science and technology culture in the ACT by providing a physical space for Canberra residents, as well as national and international visitors to meet, interact and create.
+MakeHackVoid, described by Us Folk magazine as “one of Canberra’s best new creative organisations”, is a [hackerspace\*](#hackerspace) that provides ACT residents with a multi-use [workshop and meeting space on Lake Ginninderra in Belconnen](/about#our-space). MakeHackVoid is modeled on an international community of like minded spaces that started in Germany in 1995. It supports and encourages arts, science and technology culture in the ACT by providing a physical space for Canberra residents, as well as national and international visitors to meet, interact and create.
 
 [Membership](/join) is $50/year ($30 concession) and there are a range of [access options](/join).
 
