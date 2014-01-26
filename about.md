@@ -13,7 +13,7 @@ To run a makerspace in Canberra, a collaborative community space where members c
 
 ## What's a Makerspace?
 
-A Makerspace &ldquo;can be viewed as an open community lab, workbench, machine shop, workshop and/or studio where people of diverse backgrounds can come together to share resources and knowledge to build/make things.&rdquo; (source: [Wikipedia](http://en.wikipedia.org/wiki/Hackerspace)) 
+A Makerspace &ldquo;can be viewed as an open community lab, workbench, machine shop, workshop and/or studio where people of diverse backgrounds can come together to share resources and knowledge to build/make things.&rdquo; (source: [Wikipedia](http://en.wikipedia.org/wiki/Hackerspace))
 
 It's for people who are interested in making, modifying, and generally being either artistic or otherwise creative with technology.
 

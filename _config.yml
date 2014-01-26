@@ -1,6 +1,6 @@
 inc:
   # Blog Information
-  title:        "Make Hack Void"
+  title:        "MakeHackVoid"
   subtitle:     "a Canberra hackerspace"
   cover_image:  /our-space/our-space-panorama.jpg
   logo:         logo.png
@@ -11,31 +11,31 @@ inc:
   facebook:     '357947732276'
   twitter:      MakeHackVoid
   gplus:        '404'
-  
+
   # Comments
   disqus:
     # Eg. "exampleblog" Set to false to disable comments
     shortname:  false
-  
+
   # Sharing settings
   sharing:
     twitter:    false
     facebook:   false
     gplus:      false
     hn:         false
-    
-  
- # Analytics     
+
+
+ # Analytics
   analytics:
-    google: 
+    google:
       # eg. 'UA-123-12'
       id:       false
-      
-      
+
+
   # Google Fonts
   # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
   google_font: 'Droid+Sans:400,700|Monda:400'
-  
+
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
 url:         http://makehackvoid.com
