@@ -4,7 +4,7 @@ title: Homepage
 excerpt: excerpt…
 ---
 
-MakeHackVoid, described by Us Folk magazine as “one of Canberra’s best new creative organisations”, is a [hackerspace\*](#hackerspace) that provides ACT residents with a multi-use workshop and meeting space at [Ginninderra House in Belconnen](/about#our-space). MakeHackVoid is modeled on an international community of like minded spaces that started in Germany in 1995. It supports and encourages arts, science and technology culture in the ACT by providing a physical space for Canberra residents, as well as national and international visitors to meet, interact and create.
+MakeHackVoid, described by Us Folk magazine as “one of Canberra’s best new creative organisations”, is a makerspace that provides ACT residents with a multi-use workshop and meeting space at [Ginninderra House in Belconnen](/about#our-space). MakeHackVoid is modeled on an international community of like minded spaces that started in Germany in 1995. It supports and encourages arts, science and technology culture in the ACT by providing a physical space for Canberra residents, as well as national and international visitors to meet, interact and create.
 
 [Membership](/join) is $50/year ($30 concession) and there are a range of [access options](/join).
 
@@ -14,8 +14,3 @@ Our group includes people with diverse backgrounds and interests. MakeHackVoid i
 
 If you can't make it to the next meeting then subscribe to the [Makers mailing list](contacts/), follow us on [Twitter](http://twitter.com/makehackvoid), [Facebook](http://www.facebook.com/group.php?gid=357947732276), or join us in the [IRC channel](contacts/).
 
-### About Hackerspaces {#hackerspace}
-
-A hackerspace is a place where people with common interests, usually in science, technology, or digital or electronic art can meet, socialise and collaborate.
-
-When we talk about Hackerspaces and Hacking, we do not mean any kind of unauthorised breaking (cracking) into third party computer systems, or any other illegal activities. "Real hackers call these people ‘crackers’ and want nothing to do with them." *[Eric S. Raymond](http://www.catb.org/esr/faqs/hacker-howto.html#what_is)*
