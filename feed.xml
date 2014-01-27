@@ -25,5 +25,5 @@ layout: rss-feed
     {% endunless %}
     {% endfor %}
 
-  </channel> 
+  </channel>
 </rss>

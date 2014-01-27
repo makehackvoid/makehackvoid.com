@@ -12,10 +12,10 @@ permalink: projects/
 				<h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
 				{% if post.permalink != '' and post.thumbnail %}<img src="{{post.thumbnail}}">{% endif %}
 				<p>{{ post.excerpt }}</p>
-				
+
                 <div class="meta">
-                    {% if post.author.image %}<img src="/images/{{ post.author.image }}" class="avatar">{% endif %}
-                    Written By <address>{{ post.author.name }}</address> &mdash;
+                    {% if site.data.members[post.author]['image'] %}<img src="/images/{{ site.data.members[post.author]['image] }}" class="avatar">{% endif %}
+                    Written By <address>{{ site.data.members[post.author]['name'] }}</address> &mdash;
                     <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time>
                 </div>
                 <a href="{{post.url}}">Read More &raquo;</a>

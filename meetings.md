@@ -5,11 +5,6 @@ permalink: meetings/
 
 ---
 
-[![Felipe's multi-touch table at a Maker Meetup](http://farm6.static.flickr.com/5101/5679891188_27af8cb112_m.jpg "Felipe's multi-touch table at a Maker Meetup, by angusgr")](http://farm6.static.flickr.com/5176/5407526116_98a71fb512_b.jpg) [![Maker Meetup](http://farm6.static.flickr.com/5176/5407526116_98a71fb512_m.jpg "Maker Meetup, by angusgr")](http://farm6.static.flickr.com/5176/5407526116_98a71fb512_b.jpg)
-
-[![Soldering up the barrel light gate, by devdsp](http://farm6.static.flickr.com/5229/5862500771_b9bcf18d4b_m.jpg "Soldering up the barrel light gate, by devdsp")](http://farm6.static.flickr.com/5229/5862500771_b9bcf18d4b_b.jpg)
-
-
 Maker Meetups
 ============
 
@@ -24,6 +19,11 @@ Because the space is a workshop, you will need to wear covered shoes. If you wan
 [Check out the community calendar](https://www.google.com/calendar/embed?src=s9j75t8siijp625kfmjob13rv4%40group.calendar.google.com&ctz=Australia/Sydney) and copy the next Maker Meetup into your own calendar.
 
 If you are unable to make it to our Maker Meetups, but wish to check out the space, keep an eye out for space openings and drop by some time. 
+
+[![Soldering up the barrel light gate, by devdsp](http://farm6.static.flickr.com/5229/5862500771_b9bcf18d4b_m.jpg "Soldering up the barrel light gate, by devdsp")](http://farm6.static.flickr.com/5229/5862500771_b9bcf18d4b_b.jpg)
+[![Felipe's multi-touch table at a Maker Meetup](http://farm6.static.flickr.com/5101/5679891188_27af8cb112_m.jpg "Felipe's multi-touch table at a Maker Meetup, by angusgr")](http://farm6.static.flickr.com/5101/5679891188_27af8cb112_b.jpg) 
+
+
 
 Regular Space Opening Times
 ========================
@@ -41,5 +41,7 @@ Committee Meetings
 ================
 
 The committee meets when needed to deal with administration of MakeHackVoid. Committee meetings appear in the [community calendar](https://www.google.com/calendar/embed?src=s9j75t8siijp625kfmjob13rv4%40group.calendar.google.com&ctz=Australia/Sydney). If you're interested in committee business, you can check out the [committee mailing list](/contacts#committee-mailing-list) or speak to any of the [committee members](/contacts#committee).
+
+[![Maker Meetup](http://farm6.static.flickr.com/5176/5407526116_98a71fb512_m.jpg "Maker Meetup, by angusgr")](http://farm6.static.flickr.com/5176/5407526116_98a71fb512_b.jpg)
 
 
