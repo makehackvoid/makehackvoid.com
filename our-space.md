@@ -45,10 +45,11 @@ The space is a workshop so we require enclosed shoes to be worn when visiting Ma
 Location {#getting-there}
 --------
 
-Our street address is:  
-> 	__Ginninderra House__,  
-> 	Evelyn Parker Pl  
-> 	Belconnen ACT 2617  
+Our street address is:
+
+**Ginninderra House**,  
+Evelyn Parker Pl  
+Belconnen ACT 2617  
 
 The building is within a minute’s walking distance from the Belconnen Westfield Bus Interchange. For bus routes and timetables see the [ACTION website](http://www.action.act.gov.au/).
 
