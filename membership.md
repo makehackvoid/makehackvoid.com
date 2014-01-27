@@ -5,11 +5,11 @@ permalink: join/
 
 ---
 
-Outside of [Maker Meetups](/meetings), become a member to take advantage of MHV’s facilities and support our community. Membership has three components;
+Support your community by becoming a member! Membership has three components;
 
 * **Annual Membership**
 * **Access** Members pay monthly or per visit access for their use of the MHV space.
-* **Space Opener** People who have a key to open the MHV space for themselves and other members.
+* **Voissoir** People who have a key to open the MHV space for themselves and other members.
 
 # Membership Cost
 
@@ -90,13 +90,7 @@ You only <i>need</i> to become a Space Opener if you want your own key to the sp
     + Are trustworthy
     + Are familiar with Make, Hack, Void's rules, lore and customs.
 
-* **Step Three** - Once this is recorded at a committee meeting or on the committee mailing list, you become eligible (yay!) Now you should contact the treasurer - [treasurer@makehackvoid.com](mailto:treasurer@makehackvoid.com) - and ask about payment for your key.
-
-|Renew every...|Space Opener|
-|:-------------|:-----------|
-|3 months|  $65 ($40 concession)|
-|6 months|  $130 ($80 concession)|
-|12 months|  $240 ($130 concession)|
+* **Step Three** - Once this is recorded at a committee meeting or on the committee mailing list, you become eligible (yay!)
 
 * **Step Four** - The person who nominated you, and the seconders, are responsible for inducting you as a Space Opener. This includes arranging a key and an alarm code. Also showing you how to open the space, how to announce when the space will be open, how to sign up new members, how to accept casual access fees, etc.
 
@@ -108,16 +102,16 @@ You only <i>need</i> to become a Space Opener if you want your own key to the sp
 Anyone over 18 can become a Member.
 
 ## If I don't have a key, how often is the space open for me?
-At the moment the space is open regularly nearly every Tuesday &amp; Thursday evening, most Saturday afternoons, and many Sundays. Plus often at other times. If you join the [Makers mailing list](/mailman/listinfo/makers) then you’ll see posts when people plan to open the space, or when the space is open. See also the [calendar](https://www.google.com/calendar/embed?src=s9j75t8siijp625kfmjob13rv4%40group.calendar.google.com&ctz=Australia/Sydney) for organised openings.
+At the moment the space is open regularly nearly every Tuesday &amp; Wednesday evening, most Saturday afternoons, and many Sundays. Plus often at other times. If you join the [Makers mailing list](/mailman/listinfo/makers) then you’ll see posts when people plan to open the space, or when the space is open. See also the [calendar](/#calendar) for organised openings.
 
 ## Do I have to pay access for Maker Meetups?
-No, but gold coin donation would be appreciated.
+No, but a donation would be appreciated.
 
 ## When do per visit use fees apply?
-Members pay a per-visit casual use fee if they are working with tools (including their own, as this comes under our insurance) or using the facilities in the space. Social visits &amp; laptop use doesn’t require payment, but gold coin donation would be appreciated.
+Members pay a per-visit casual use fee if they are working with tools (including their own, as this comes under our insurance) or using the facilities in the space. Social visits &amp; laptop use doesn’t require payment, but a donation would be appreciated.
 
 ## Do access fees apply if I'm helping another member with their project or running a workshop?
-No. Gold coin donation would be appreciated.
+No. A donation would be appreciated.
 
 ## What about Makers under 18 (minors)?
 
