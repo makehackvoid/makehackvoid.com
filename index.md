@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Homepage
-excerpt: excerpt…
+excerpt: MakeHackVoid, described by Us Folk magazine as “one of Canberra’s best new creative organisations”, is a makerspace that provides ACT residents with a multi-use workshop and meeting space at Ginninderra House in Belconnen.
 ---
 
-MakeHackVoid, described by Us Folk magazine as “one of Canberra’s best new creative organisations”, is a makerspace that provides ACT residents with a multi-use workshop and meeting space at [Ginninderra House in Belconnen](/about#our-space). MakeHackVoid is modeled on an international community of like minded spaces that started in Germany in 1995. It supports and encourages arts, science and technology culture in the ACT by providing a physical space for Canberra residents, as well as national and international visitors to meet, interact and create.
+MakeHackVoid is modeled on an [international community of like minded spaces](http://hackerspaces.org) that started in Germany in 1995. It supports and encourages arts, science and technology culture in the ACT by providing a [physical space](/our-space) for Canberra residents, as well as national and international visitors to meet, interact and create.
 
 [Membership](/join) is $50/year ($30 concession) and there are a range of [access options](/join).
 
