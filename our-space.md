@@ -45,10 +45,8 @@ The space is a workshop so we require enclosed shoes to be worn when visiting Ma
 Location {#getting-there}
 --------
 
-We are within walking distance of the Belconnen bus exchange.
-
 Our street address is:  
-> 	**Ginninderra House**,  
+> 	__Ginninderra House__,  
 > 	Evelyn Parker Pl  
 > 	Belconnen ACT 2617  
 
