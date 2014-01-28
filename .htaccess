@@ -1,5 +1,4 @@
 RewriteEngine on
-DirectorySlash Off
 
 ### pages staying on main website (these need to be set to correct urls)
 # Redirect permanent /community/irc-channel   /contacts
