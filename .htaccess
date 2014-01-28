@@ -65,7 +65,7 @@ Redirect permanent /member-projects/gba-upscaled-larger-tft-screen http://axio.m
 RewriteRule mhvlib https://infernoembedded.com/products/flame-runtime [NC,L]
 Redirect permanent /node/543/release https://infernoembedded.com/products/flame-runtime/release
 RewriteRule mhvavrtools https://infernoembedded.com/products/avr-tools [NC,L]
-http://www.makehackvoid.com/node/578/release https://infernoembedded.com/products/avr-tools/release
+Redirect permanent /node/578/release https://infernoembedded.com/products/avr-tools/release
 RewriteRule mhv_avr_tools https://infernoembedded.com/products/avr-tools [NC,L]
 RewriteRule mhvboard https://infernoembedded.com/products/mhvboard [NC,L]
 Redirect permanent /group-projects/avr-starter-schematics https://infernoembedded.com/products/starter-schematics
