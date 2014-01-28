@@ -29,6 +29,10 @@ article.home div.container
     {
     @include make-md-column(3);
     @include make-md-column-offset(1);
+
+      h3:first-of-type {
+        margin-top: 0;
+      }
     }
 
 
