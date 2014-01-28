@@ -8,7 +8,7 @@ Redirect permanent /community/code-of-conduct   /code-of-conduct
 Redirect permanent /community/membership   /join
 Redirect permanent /community/meetings   /meetings
 Redirect permanent /community/about-us   /our-space
-
+Redirect permanent /rss.xml /feed.xml
 Redirect permanent /news/mhv-cryptoparty /events/2013/10/18/mhv-cryptoparty/
 Redirect permanent /news/mhv-infrastructure-hack-day  /events/2013/10/07/mhv-infrastructure-day/
 Redirect permanent /news/ada-initiative-allies-workshop-mhv  /events/2013/09/21/ada-initiative-allies-workshop-mhv/
