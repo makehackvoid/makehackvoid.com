@@ -62,4 +62,11 @@ Redirect permanent /member-projects/arduino-powered-orbit-cd-duplicator    http:
 Redirect permanent /member-projects/laser-engraver-g-code-conversion    http://alastair.d-silva.org/working-cheap-chinese-laser-engravers
 Redirect permanent /member-projects/pictures-some-mattprojects-axioms http://axio.ms/projects/
 Redirect permanent /member-projects/gba-upscaled-larger-tft-screen http://axio.ms/projects/iiyamameetxilinx/
-
+RewriteRule mhvlib https://infernoembedded.com/products/flame-runtime [NC,L]
+Redirect permanent /node/543/release https://infernoembedded.com/products/flame-runtime/release
+RewriteRule mhvavrtools https://infernoembedded.com/products/avr-tools [NC,L]
+http://www.makehackvoid.com/node/578/release https://infernoembedded.com/products/avr-tools/release
+RewriteRule mhv_avr_tools https://infernoembedded.com/products/avr-tools [NC,L]
+RewriteRule mhvboard https://infernoembedded.com/products/mhvboard [NC,L]
+Redirect permanent /group-projects/avr-starter-schematics https://infernoembedded.com/products/starter-schematics
+Redirect permanent /member-projects/development-board-wearable-ws2812-leds https://infernoembedded.com/products/development-board-wearable-ws2812-leds
