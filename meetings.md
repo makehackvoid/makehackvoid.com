@@ -12,9 +12,9 @@ First, third and fifth Tuesdays of every month are Maker Meetups. 6:15pm at [the
 
 At Maker Meetups you can check out the Makerspace, meet interesting people in Canberra’s Maker community and see the cool stuff people are working on. If you’ve been working on something that you’d like to share, you’ll find plenty of people keen to hear about your progress and the challenges you’ve faced. You can bounce ideas around, compare notes or draw on collective experience and knowledge to help progress through tricky parts of your projects.
 
-Many people who come to Maker Meetups aren’t MakeHackVoid members, there’s no pressure to become one. Everyone is welcome - all ages, interests and skill levels. Access to Maker Meetups is free for members and non-members.
+Everyone is welcome - all ages, interests and skill levels. 
 
-Because the space is a workshop, you will need to wear covered shoes. If you want to work with the tools in the space then you’ll need to join in order to do that - see [membership](/community/membership).
+Because the space is a workshop, you will need to wear covered shoes. 
 
 [Check out the community calendar](https://www.google.com/calendar/embed?src=s9j75t8siijp625kfmjob13rv4%40group.calendar.google.com&ctz=Australia/Sydney) and copy the next Maker Meetup into your own calendar.
 
@@ -24,11 +24,10 @@ If you are unable to make it to our Maker Meetups, but wish to check out the spa
 [![Felipe's multi-touch table at a Maker Meetup](http://farm6.static.flickr.com/5101/5679891188_27af8cb112_m.jpg "Felipe's multi-touch table at a Maker Meetup, by angusgr")](http://farm6.static.flickr.com/5101/5679891188_27af8cb112_b.jpg) 
 
 
-
 Regular Space Opening Times
 ========================
 
-The space is open for members lots of times through the week.
+The space is open for lots of times through the week.
 
 * [Check the Google Calendar](https://www.google.com/calendar/embed?src=s9j75t8siijp625kfmjob13rv4%40group.calendar.google.com&ctz=Australia/Sydney) for scheduled openings and events.
 * [Check the Makers mailing list](http://www.makehackvoid.com/mailman/listinfo/makers) for other times the space is open.
