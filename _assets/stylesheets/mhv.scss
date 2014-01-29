@@ -35,9 +35,18 @@ article.page {
 }
 
 //  Nav
-.site-nav nav.tagline {
-  padding-top: 23px;
-  padding-bottom: 23px;
+
+.site-nav {
+  nav#navigation {
+    padding-top: 18px;
+    padding-bottom: 18px;
+    a.brand {
+      border: 4px solid;
+      padding: 4px 10px;
+      font-size: 20px;
+      padding-bottom: 3px;
+    }
+  }
 }
 
 //  Google calendar widget
