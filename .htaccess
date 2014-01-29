@@ -1,0 +1,65 @@
+RewriteEngine on
+
+### pages staying on main website (these need to be set to correct urls)
+# Redirect permanent /community/irc-channel   /contacts
+Redirect permanent /community/mailing-lists   /contacts
+Redirect permanent /community/committee-contacts   /contacts
+Redirect permanent /community/code-of-conduct   /code-of-conduct
+Redirect permanent /community/membership   /join
+Redirect permanent /community/meetings   /meetings
+Redirect permanent /community/about-us   /our-space
+Redirect permanent /rss.xml /feed.xml
+Redirect permanent /news/mhv-cryptoparty /events/2013/10/18/mhv-cryptoparty/
+Redirect permanent /news/mhv-infrastructure-hack-day  /events/2013/10/07/mhv-infrastructure-day/
+Redirect permanent /news/ada-initiative-allies-workshop-mhv  /events/2013/09/21/ada-initiative-allies-workshop-mhv/
+Redirect permanent /group-projects/mhv-quadcopter-workshop-20  /events/2013/06/25/mhv-quadcopter-workshop-2/
+
+Redirect permanent /member-projects/rfid-access-locker-journal   /projects/rfid-locker
+Redirect permanent /member-projects/ammo-counter-nerf-gun   /projects/ammo-counter-nerf
+Redirect permanent /member-projects/arduino-controlled-robotic-hand   /projects/arduino-controlled-robotic-hand
+Redirect permanent /member-projects/ddr-board-dreamcast   /projects/ddr-board-dreamcast
+Redirect permanent /projects/pc-pcb-under-30-minutes-quick-n-easy-pcb-fabrication   /projects/pc-to-pcb
+Redirect permanent /group-projects/emiglio-refit   /projects/emiglio-refit
+Redirect permanent /member-projects/async-firefly   /projects/async-firefly
+Redirect permanent /member-projects/robosapien-w-bluetooth-remote-control   /projects/robosapien-w-bluetooth-remote
+Redirect permanent /group-projects/mhv-space-probe   /projects/space-probe
+Redirect permanent /member-projects/huxbox-box-spaces-rep-rap-huxley-3d-printer   /projects/huxbox
+Redirect permanent /community/our-space   /our-space
+
+### pages moved to wiki
+
+Redirect permanent /community/rules https://wiki.makehackvoid.com/policy:start
+Redirect permanent /group-projects/emiglios-head-now-slightly-less-firmly-attached    https://wiki.makehackvoid.com/projects:group_projects:emiglio:emiglios_head_now_slightly_less_firmly_attached
+Redirect permanent /news/emiglio-teardown   https://wiki.makehackvoid.com/projects:group_projects:emiglio:emiglio_teardown
+# http://www.makehackvoid.com/group-projects/emiglio-refit https://wiki.makehackvoid.com/projects:group_projects:emiglio:refit
+Redirect permanent /news/why-i-wrote-ht1632-avr  https://wiki.makehackvoid.com/projects:ht1632_avr:why_i_wrote_ht1632avr
+Redirect permanent /member-projects/ht1632-avr-library-interface-ht1632-led-driver-ics-and-avr-micro-controllers https://wiki.makehackvoid.com/projects:ht1632_avr:ht1632_avr
+Redirect permanent /news/lately-down-local-hackerspace https://wiki.makehackvoid.com/history:2011_september
+Redirect permanent /member-projects/smd-reflow-oven    https://wiki.makehackvoid.com/projects:smd-reflow-oven-adr1an
+Redirect permanent /community/strategic-plan    https://wiki.makehackvoid.com/policy:strategic_plan
+Redirect permanent /community/risk-assessment    https://wiki.makehackvoid.com/howto:safety:risk_assessment
+Redirect permanent /community/ppe    https://wiki.makehackvoid.com/howto:safety:personal_protective_equipment
+Redirect permanent /member-projects/sms-ubuntu    https://wiki.makehackvoid.com/projects:sms_via_ubuntu
+Redirect permanent /member-projects/pcc4n-arduino-controlled-lighting-display    https://wiki.makehackvoid.com/projects:pcc4-n
+Redirect permanent /member-projects/laser-cutting-pepakura    https://wiki.makehackvoid.com/projects:laser_cutting_from_pepakura
+Redirect permanent /community/forms    https://wiki.makehackvoid.com/howto:make_a_mhv_expenses_claim
+Redirect permanent /community/forms    https://wiki.makehackvoid.com/howto:safety:equipment_self_induction_form
+Redirect permanent /community/suppliers    https://wiki.makehackvoid.com/links:suppliers
+Redirect permanent /group-projects/pcb-engraver    https://wiki.makehackvoid.com/howto:pcb_engraver
+Redirect permanent /group-projects/mhv-quadcopter-workshop-20    https://wiki.makehackvoid.com/workshops:quadcopter_workshop_2
+Redirect permanent /community/network-topology-progress    https://wiki.makehackvoid.com/tech_docs:network_topology
+Redirect permanent /community/server-config    https://wiki.makehackvoid.com/tech_docs:server
+Redirect permanent /community/ltsp-workstations    https://wiki.makehackvoid.com/tech_docs:ltsp_workstations
+Redirect permanent /member-projects/whats-cheap-rc-helicopter    https://wiki.makehackvoid.com/projects:what_is_in_a_cheap_rc_helicopter
+Redirect permanent /member-projects/cameras-space    https://wiki.makehackvoid.com/projects:cameras_in_the_space
+Redirect permanent /group-projects/solder-station-upgrade    https://wiki.makehackvoid.com/projects:soldering_station_upgrade
+Redirect permanent /group-projects/roland-jwx-10-setup    https://wiki.makehackvoid.com/howto:rowland_jwx-10_setup
+
+### pages moved/already on other websites
+
+Redirect permanent /member-projects/breadboard-helper    http://alastair.d-silva.org/breadboard-helper
+Redirect permanent /member-projects/arduino-powered-orbit-cd-duplicator    http://alastair.d-silva.org/orbit-cd-duplicator-rebuild
+Redirect permanent /member-projects/laser-engraver-g-code-conversion    http://alastair.d-silva.org/working-cheap-chinese-laser-engravers
+Redirect permanent /member-projects/pictures-some-mattprojects-axioms http://axio.ms/projects/
+Redirect permanent /member-projects/gba-upscaled-larger-tft-screen http://axio.ms/projects/iiyamameetxilinx/
+

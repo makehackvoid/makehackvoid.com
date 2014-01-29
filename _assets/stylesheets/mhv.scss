@@ -29,12 +29,22 @@ article.home div.container
     {
     @include make-md-column(3);
     @include make-md-column-offset(1);
+
+      h3:first-of-type {
+        margin-top: 0;
+      }
     }
 
+//  Nav
+
+.site-nav nav.tagline {
+  padding-top: 23px;
+  padding-bottom: 23px;
+}
 
 //  Google calendar widget
 
-div#calendar iframe
+iframe.calendar
   {
   display: block;
   margin: auto 0;
