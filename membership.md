@@ -7,11 +7,10 @@ permalink: join/
 
 MakeHackVoid depends on financial contributions from members to pay for the
 facilities it provides; and volunteer hours to keep the space maintained. 
-Most of those contributions are though membership payments. Joining
-MakeHackVoid involves filling in a sign up form, agreeing to our community
-rules & guidelines. For those who are able, we ask that you pay a monthly
-contribution to the running costs. Most people pay $30 a month using a
-scheduled payment through their online banking. There are also donation
+Joining MakeHackVoid involves filling in a sign up form and agreeing to our 
+community rules & guidelines. For those who are able, we ask that you pay a 
+monthly contribution to the running costs. Most people pay $30 a month using
+a scheduled payment through their online banking. There are also donation
 boxes in the space if regular payments are difficult for you.
 
 MakeHackVoid also recognises & highly values the non-fiscal contributions of
