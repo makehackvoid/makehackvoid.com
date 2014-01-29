@@ -27,7 +27,7 @@ If you are unable to make it to our Maker Meetups, but wish to check out the spa
 Regular Space Opening Times
 ========================
 
-The space is open for lots of times through the week.
+The space is open lots of times through the week.
 
 * [Check the Google Calendar](/#calendar) for scheduled openings and events.
 * [Check the Makers mailing list](http://www.makehackvoid.com/mailman/listinfo/makers) for other times the space is open.
