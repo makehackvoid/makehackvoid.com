@@ -5,18 +5,6 @@ permalink: our-space/
 subtitle: "We've Moved!"
 ---
 
-Our new location in Belconnen:
-{% include _ginninderra-video.html %}
-
-----
-
-Some pictures of the old MHV space in Downer:
-
-![People in the space](/files/our-space/space-people-1.jpg)
-![People in the space](/files/our-space/space-people-3.jpg)
-
-[More photos on flickr](http://www.flickr.com/groups/makehackvoid/).
-
 We moved into our new space at Ginninderra House in Belconnen in January 2014 after being at Downer since 2011. Please come along and check us out at our next [meetup](/meetings/), or any time we are open. Check the [calendar](/#calendar) or the [mailing list](/contacts/#mailing_lists) for opening times. If you would like to support our community please [join MHV](/join/).
 
 You are welcome to subscribe to the [Makers mailing list](/contacts/#mailing-list), join the
@@ -45,16 +33,26 @@ The space is a workshop so we require enclosed shoes to be worn when visiting Ma
 Location {#getting-there}
 --------
 
-Our street address is:
-
-**Ginninderra House**,  
+Our street address is:  
+**Ginninderra House**  
 Evelyn Parker Pl  
 Belconnen ACT 2617  
 
 The building is within a minute’s walking distance from the Belconnen Westfield Bus Interchange. For bus routes and timetables see the [ACTION website](http://www.action.act.gov.au/).
 
-----
-
 {% include _ginninderra-map.html %}
 
 ----
+
+Photos
+------
+
+### Our new location in Belconnen: ###
+{% include _ginninderra-video.html %}
+
+### The old space in Downer: ###
+
+![People in the space](/files/our-space/space-people-1.jpg)
+![People in the space](/files/our-space/space-people-3.jpg)
+
+[More photos on flickr](http://www.flickr.com/groups/makehackvoid/).
