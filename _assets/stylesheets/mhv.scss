@@ -3,49 +3,45 @@
 
 
 //  Homepage
-
-article.home div.container
-  {
-  }
-
-  article.home section.hero
-    {
+article.home {
+  section.hero {
     @include make-md-column(8);
     @include make-md-column-offset(2);
     padding: 2em 0;
-    }
+  }
 
-  article.home div.content
-    {
+  div.content {
     @include make-row();
+
+    section.main {
+      @include make-md-column(7);
     }
 
-  article.home div.content section.page
-    {
-    @include make-md-column(7);
-    }
-
-  article.home div.content section.sidebar
-    {
-    @include make-md-column(3);
-    @include make-md-column-offset(1);
+    section.sidebar {
+      @include make-md-column(3);
+      @include make-md-column-offset(1);
 
       h3:first-of-type {
         margin-top: 0;
       }
     }
+  }
+}
+
+article.page {
+  section {
+    margin: 0 8em;
+  }
+}
 
 //  Nav
-
 .site-nav nav.tagline {
   padding-top: 23px;
   padding-bottom: 23px;
 }
 
 //  Google calendar widget
-
-iframe.calendar
-  {
+iframe.calendar {
   display: block;
   margin: auto 0;
   padding: 0;
