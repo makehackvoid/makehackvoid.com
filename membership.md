@@ -38,7 +38,7 @@ Joining is really easy
 # How to get a key
 
 Once you have been a part of the MakeHackVoid community for a while, you can
-get a key to the space so you to open the space whenever they you want. It
+get a key to the space so you can open the space whenever you want. It
 does come with some responsibilities, as other members are depending on key
 holders to open the space and lock up again when everyone leaves, we ask
 that you announce your plans to open the space on the makers mailing list
