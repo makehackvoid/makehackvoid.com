@@ -28,8 +28,8 @@ Joining is really easy
 3. If possible, please set up a regular bank transfer your membership payment:
 
     + Name: Make Hack Void Inc
-    + BSB : 012951
-    + Account No: 250992065
+    + BSB : 062913
+    + Account No: 10910053
 
     Please use the name we will know you as in the payment description.
 
