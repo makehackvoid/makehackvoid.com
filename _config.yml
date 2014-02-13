@@ -29,8 +29,7 @@ inc:
   analytics:
     google:
       # eg. 'UA-123-12'
-      id:       'UA-16426650-1'
-
+      id:       'UA-48037331-1' 
 
   # Google Fonts
   # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
