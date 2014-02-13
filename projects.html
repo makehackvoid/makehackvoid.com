@@ -10,7 +10,7 @@ permalink: projects/
 		<section class="index">
 			<div>
 				<h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
-				{% if post.permalink != '' and post.thumbnail %}<img src="{{post.thumbnail}}">{% endif %}
+				{% if post.permalink != '' and post.thumbnail %}<img src="{{post.thumbnail}}" class="corner-default">{% endif %}
 				<p>{{ post.excerpt }}</p>
 
                 <div class="meta">
@@ -26,3 +26,4 @@ permalink: projects/
         {% endunless %}
         {% endfor %}
     </article>
+
