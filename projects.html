@@ -12,7 +12,7 @@ permalink: projects/
 				<h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
 				{% if post.permalink != '' and post.thumbnail %}<img src="{{post.thumbnail}}" class="corner-default">{% endif %}
 				<p>{{ post.excerpt }}</p>
-				
+
                 <div class="meta">
                     {% if site.data.members[post.author]['image'] %}<img src="/images/{{ site.data.members[post.author]['image] }}" class="avatar">{% endif %}
                     Written By <address>{{ site.data.members[post.author]['name'] }}</address> &mdash;

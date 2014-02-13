@@ -1,41 +1,41 @@
 inc:
   # Blog Information
-  title:        "Make Hack Void"
-  subtitle:     "a Canberra hackerspace"
+  title:        "MakeHackVoid"
+  subtitle:     "a Canberra makerspace"
   cover_image:  /our-space/our-space-panorama.jpg
   logo:         logo.png
 
   # Company information
   company:      MHV Inc.
   url:          http://makehackvoid.com
-  facebook:     '357947732276'
+  facebook:     'makehackvoid'
   twitter:      MakeHackVoid
   gplus:        '404'
-  
+
   # Comments
   disqus:
     # Eg. "exampleblog" Set to false to disable comments
     shortname:  false
-  
+
   # Sharing settings
   sharing:
     twitter:    false
     facebook:   false
     gplus:      false
     hn:         false
-    
-  
- # Analytics     
+
+
+ # Analytics
   analytics:
-    google: 
+    google:
       # eg. 'UA-123-12'
-      id:       false
-      
-      
+      id:       'UA-16426650-1'
+
+
   # Google Fonts
   # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
   google_font: 'Droid+Sans:400,700|Monda:400'
-  
+
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
 url:         http://makehackvoid.com
@@ -46,6 +46,7 @@ layouts:     ./_layouts
 include:     ['.htaccess']
 exclude:     []
 timezone:    Australia/Canberra
+encoding:    utf-8
 
 # Show future posts
 future:      false
@@ -56,8 +57,8 @@ pygments:    true
 relative_permalinks: false
 
 permalink:     pretty
-paginate_path: 'page:num'
-paginate: 3
+#paginate_path: 'page:num'
+#paginate: 3
 
 # Using rdiscount instead of maruku
 markdown:      maruku

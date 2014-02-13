@@ -15,12 +15,6 @@
         opacity:0.2;
     }
     
-    #navigation a.brand {
-	    border: 4px solid;
-	    padding: 4px 10px;
-	    font-size: 20px;
-	    padding-bottom: 3px;
-    }
     .brand img {
         height:40px;
         margin-right:10px;
@@ -32,7 +26,7 @@
     }
     
     nav {
-        padding:18px 30px;
+        padding:22px 30px;
         float:left;
         height:80px;
         display:table-cell;
@@ -89,4 +83,3 @@ body.nav-hidden {
         -webkit-transform: translate3d(0px, 0, 0px);
     }
 }
-
