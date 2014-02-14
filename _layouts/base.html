@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% if page.title %}{{ page.title }} &mdash; {{ site.inc.title }}{% else %}{{ site.inc.title }} &mdash; {{ site.inc.subtitle }}{% endif %}</title>
     {% if site.inc.google_font %}<link href="https://fonts.googleapis.com/css?family={{ site.inc.google_font }}" rel="stylesheet" type="text/css">{% endif %}
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     {% stylesheet main %}
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" href="/images/{{ site.inc.logo }}"/>
@@ -48,7 +49,8 @@
         <nav class="tagline">
             <span id='space-status-open' style='display:none'>MakeHackVoid is : <a href='/our-space#getting_there' class='btn-sm btn-success'>open</a></span>
             <span id='space-status-closed' style='display:none'>MakeHackVoid is : <a href='/meetings' class='btn-sm'>closed</a></span>
-            <a href="/our-space#getting-there" class="btn btn-outline">Visit our Space</a>
+            <a id="nav-overflow" class="btn btn-outline"><i class="fa fa-bars fa-lg"></i></a>
+            <a id="our-space-cta" href="/our-space#getting-there" class="btn btn-outline">Visit our Space</a>
         </nav>
     </header>
 </section>
