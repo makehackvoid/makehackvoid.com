@@ -1,5 +1,8 @@
 RewriteEngine on
 
+# 404 page redirection
+ErrorDocument 404 /404.html
+
 ### pages staying on main website (these need to be set to correct urls)
 # Redirect permanent /community/irc-channel   /contacts
 Redirect permanent /community/mailing-lists   /contacts

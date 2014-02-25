@@ -15,6 +15,12 @@ To hack on the website you’ll need [Ruby and Ruby Gems](http://jekyllrb.com/do
 
     bundle install
 
+You may need to install some dependancies too (if you don't already have them):
+
+    sudo gem install jekyll-assets
+    sudo gem install sass
+    sudo gem install uglifier
+
 and then build the site locally while watching for changes:
 
     jekyll serve --watch
