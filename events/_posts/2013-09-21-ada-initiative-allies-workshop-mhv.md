@@ -4,8 +4,7 @@ title: "Ada Initiative &lsquo;Allies Workshop&rsquo; @ MHV"
 cover_image: our-space/our-space-panorama.jpg
 excerpt: "Incorporated provides a great typography, responsive design, author details, semantic markup and more."
 
-author:
-  name: Brenda Moon
+author: selene
 ---
 **Start:** 21/09/2013 14:00<br>
 **End:** 21/09/2013 16:00<br>

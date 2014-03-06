@@ -13,8 +13,12 @@ devdsp:
   twitter: dev_dsp
   flickr: devdsp
 
-
 jambulance:
   name: Jamie Reid
   github: jamiereid
   twitter: jambulance
+
+mhv:
+  name: MHV
+  github: makehackvoid
+  twitter: makehackvoid

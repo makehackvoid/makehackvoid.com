@@ -6,8 +6,7 @@ cover_image: our-space/our-space-panorama.jpg
 
 excerpt: "Learn about encryption technology"
 
-author:
-  name: Brenda Moon
+author: selene
 ---
 
 ![CryptoParty Logo](https://raw.github.com/cryptoparty/artwork/master/CryptoPartyLogo.png)
