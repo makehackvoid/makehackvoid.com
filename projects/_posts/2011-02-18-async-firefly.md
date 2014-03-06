@@ -4,7 +4,7 @@ title: ASync-Firefly
 permalink: projects/async-firefly/
 excerpt: An Analog Synchronising Firefly very heavily inspired by the Synchronising Firefly kit from Alex at Tinkerlog.
 thumbnail: /files/projects/async-firefly/thumbnail.jpg
-
+author: mhv
 ---
 
 The ASync-Firefly is an Analog Synchronising Firefly very heavily inspired by the [Synchronising Firefly kit](http://store.tinkerlog.com/store/index.php?main_page=product_info&cPath=2&products_id=2) from Alex at [Tinkerlog](http://tinkerlog.com/). I was inspired to see what it would take to replace the ATiny13 with common, off the shelf analog parts. My goals were to have no digital parts (which I failed at), using only through hole parts I could get from my local Jaycar (successful) and being able to use a single battery to run a string of kits (successful).

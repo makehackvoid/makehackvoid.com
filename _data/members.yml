@@ -13,8 +13,27 @@ devdsp:
   twitter: dev_dsp
   flickr: devdsp
 
-
 jambulance:
   name: Jamie Reid
   github: jamiereid
   twitter: jambulance
+
+mhv:
+  name: MHV
+  github: makehackvoid
+  twitter: makehackvoid
+
+angusgr:
+  name: angusgr
+
+adr1an:
+  name: Adr1an
+
+wil5on:
+  name: Wil5on
+
+combust:
+  name: Combust
+
+ausrobotics:
+  name: Australian Robotics

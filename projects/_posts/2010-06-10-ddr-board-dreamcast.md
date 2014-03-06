@@ -4,7 +4,7 @@ title: DDR board for the Dreamcast
 permalink: projects/ddr-board-dreamcast/
 excerpt: A DDR (Dance Dance Revolution) board for the Dreamcast.
 thumbnail: /files/projects/ddr-board-dreamcast/thumbnail.jpg
-
+author: combust
 ---
 
 *Combust — Thu, 10/06/2010 - 2:02pm*
