@@ -21,7 +21,6 @@ jambulance:
 mhv:
   name: MHV
   github: makehackvoid
-<<<<<<< HEAD
   twitter: makehackvoid
 
 angusgr:
@@ -38,6 +37,3 @@ combust:
 
 ausrobotics:
   name: Australian Robotics
-=======
-  twitter: makehackvoid
->>>>>>> 39e5f66dfa105278724608acc4b8920a7e73d69a
