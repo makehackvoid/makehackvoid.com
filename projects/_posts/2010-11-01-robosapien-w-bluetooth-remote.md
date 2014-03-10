@@ -4,7 +4,7 @@ title: Robosapien w/ Bluetooth remote control
 permalink: projects/robosapien-w-bluetooth-remote/
 excerpt: This is about a Sunday afternoon spent attaching a Seeeduino (Arduino clone) and a Bluetooth serial module to the Robosapien, then remote controlling him from a Python shell.
 thumbnail: /files/projects/robosapien-w-bluetooth-remote/thumbnail.jpg
-
+author: angusgr
 ---
 
 *angusgr — Mon, 01/11/2010 - 6:57pm*

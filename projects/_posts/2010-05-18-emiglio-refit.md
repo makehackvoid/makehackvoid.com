@@ -4,7 +4,7 @@ title: Emiglio Refit
 permalink: projects/emiglio-refit/
 excerpt: Refitting an Emiglio/Scooter robot with new control systems.
 thumbnail: /files/projects/emiglio-refit/thumbnail.jpg
-
+author: devdsp
 ---
 
 *Adam — Tue, 18/05/2010 - 11:08am*

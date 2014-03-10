@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MHV Infrastructure Hack Day
+author: mhv
 ---
 Had a great day at MHV today!
 

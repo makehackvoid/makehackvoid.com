@@ -2,6 +2,7 @@
 layout: post
 title: MHV Quadcopter Workshop 2.0
 excerpt: "Announcing the second MHV quadcopter workshop."
+author: mhv
 ---
 **Start:** 24/07/2013 18:30<br>
 **Where:** At MHV in Downer

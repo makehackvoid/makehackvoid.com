@@ -2,19 +2,51 @@ selene:
   name: Brenda Moon
   github: brendam
   twitter: brendam
+  link: http://brenda.moon.net.au
 
 cmrn:
   name: Cameron Moon
   github: cmrn
+  twitter: cmrn
+  link: http://cameron.moon.net.au
 
 devdsp:
   name: Adam Thomas
   github: devdsp
   twitter: dev_dsp
   flickr: devdsp
-
+  link: https://twitter.com/dev_dsp
 
 jambulance:
   name: Jamie Reid
   github: jamiereid
   twitter: jambulance
+  link: http://jre.id.au
+
+mhv:
+  name: MHV
+  github: makehackvoid
+  twitter: makehackvoid
+  link: http://makehackvoid.com
+
+angusgr:
+  name: angusgr
+  twitter: projectgus
+  link: http://projectgus.com
+
+adr1an:
+  name: Adr1an
+  link: https://#
+
+wil5on:
+  name: Wil5on
+  link: http://#
+
+combust:
+  name: Combust
+  link: http://#
+
+ausrobotics:
+  name: Australian Robotics
+  twitter: ausrobotics
+  link: http://www.australianrobotics.com.au
