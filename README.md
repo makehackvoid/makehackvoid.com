@@ -79,3 +79,5 @@ Design:
 - news item styling (blog)
 - event item styling (blog)
 - table formatting
+
+Not destructive test of a thing.
