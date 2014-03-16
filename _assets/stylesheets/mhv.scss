@@ -43,6 +43,45 @@ article.page {
   }
 }
 
+article {
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Monda", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  h3 {
+    font-size: 1.4em;
+    font-weight: 400;
+  }
+  h4 {
+    font-size: 1.1em;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #626C77;
+  }
+  h5 {
+    font-size: 0.9em;
+    font-weight: 700;
+  }
+  h6 {
+    font-size: 0.9em;
+    font-weight: 400;
+  }
+  blockquote {
+    border-left: 4px solid #eee;
+    margin-left: $padding-base-horizontal;
+    padding-left: $padding-large-horizontal;
+    width: 95%;
+    p, li {
+      font-size: 20px;
+      line-height: 1.7;
+      color: #626C77;
+    }
+  }
+  dd {
+    margin-bottom: 0.285em;
+  }
+}
+
 //  Nav
 
 .site-nav {
@@ -84,7 +123,7 @@ article.page {
     }
 
     #our-space-cta {
-      display: inline-block; 
+      display: inline-block;
     }
 
     @media (max-width: 720px) {
