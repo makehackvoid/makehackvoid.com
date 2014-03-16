@@ -8,14 +8,16 @@ Usage
 
 We build the website automatically from plaintext [Markdown](https://en.wikipedia.org/wiki/Markdown) files. This means adding your content is quite simple, with two options for doing so:
 
-1. add your content directly via GitHub
-2. fork the project, add your content, and send us a pull-request
+1. directly via GitHub’s web interface; or
+2. by downloading the project for editing locally
 
-To hack on the website you’ll need [Ruby and Ruby Gems](http://jekyllrb.com/docs/installation/):
+For more detail see the [howto for writing/adding content on the MHV blog](http://makehackvoid.com/blog/2014/03/15/writing-howto/).
+
+To hack on the website you’ll need [Ruby and Ruby Gems](http://jekyllrb.com/docs/installation/). To fetch the necessary packages/dependencies use bundle, in the root of the project:
 
     bundle install
 
-You may need to install some dependancies too (if you don't already have them):
+You may need to install some dependencies too (if you don’t already have them):
 
     sudo gem install jekyll-assets
     sudo gem install sass
@@ -42,7 +44,7 @@ Technologies
 * Jekyll (1.1)
 * Twitter Bootstrap (3.0)
 * jQuery (1.10)
-* Jekyll-Incorporated
+* [Jekyll-Incorporated](https://github.com/kippt/jekyll-incorporated)
 
 Other resources
 ---------------
@@ -58,8 +60,6 @@ To-dos
 
 Layout/code:
 
-- responsive nav
-- about dropdown
 - join link (dropdown?) — membership.md - membership options, entry to google forms, email
 - events/news structure — fold together under journal
 
