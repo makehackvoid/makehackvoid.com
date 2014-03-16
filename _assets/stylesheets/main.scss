@@ -1,18 +1,17 @@
 /* CONFIGURATION */
 
-/* Bodytext font */
-$font: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+// Body fonts
+$font: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
 
-/* Font for headings */
+// Heading fonts
 $fontheadings: "Monda", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
-/* Text colors */
+// Text colours
 $text: #21272d;
 $textmuted: #848484;
 $accent: #2077b2;
 
-
-/* IMPORT CSS FILES */
+// IMPORT CSS FILES
 @import "variables";
 @import "mixins";
 @import "grid";
