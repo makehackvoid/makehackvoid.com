@@ -19,12 +19,14 @@ devdsp:
 
 jambulance:
   name: Jamie Reid
+  hackergotchi: jambulance.png
   github: jamiereid
   twitter: jambulance
   link: http://jre.id.au
 
 mhv:
   name: MHV
+  hackergotchi: mhv.png
   github: makehackvoid
   twitter: makehackvoid
   link: http://makehackvoid.com
