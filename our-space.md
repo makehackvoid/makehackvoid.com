@@ -24,8 +24,8 @@ Facilities
 -   Kitchenette
 -   Jetty and boat ramp!
 -   Amazing views of Lake Ginninderra
+-   Internet access
 
-We are still settling into our new space, so some tools are not yet accessible and we are still waiting on our internet access.
 
 Before visiting the space
 -------------------------
