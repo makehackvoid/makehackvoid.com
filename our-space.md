@@ -59,4 +59,3 @@ Photos
 
 [More photos on flickr](http://www.flickr.com/groups/makehackvoid/).
 
-123
