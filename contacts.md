@@ -22,7 +22,7 @@ Come and hang out on our IRC (Internet Relay Chat) channel on freenode. You can 
 
 If you are not familiar with mailing lists, please read our [mailing list guidelines](http://wiki.makehackvoid.com/howto:mailing_list_guidelines).
 
-* The [Makers mailing list](http://www.makehackvoid.com/mailman/listinfo/committee) is used for informal discussion of projects and news, interesting things people are doing or thinking about. High volume list (about 2-8 messages per day.)
+* The [Makers mailing list](http://www.makehackvoid.com/mailman/listinfo/makers) is used for informal discussion of projects and news, interesting things people are doing or thinking about. High volume list (about 2-8 messages per day.)
   * [Subscribe or Unsubscribe](http://www.makehackvoid.com/mailman/listinfo/makers)
   * [Makers Archives](http://www.makehackvoid.com/pipermail/makers/)
 * The [Committee mailing list](http://www.makehackvoid.com/mailman/listinfo/committee) is the best way to contact the entire MHV committee outside of a committee meeting. You can post to this list without subscribing first by just sending an email to [committee@makehackvoid.com](committee@makehackvoid.com), although your post will be delayed until the list administrator has a chance to approve it.
