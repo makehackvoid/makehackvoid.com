@@ -43,8 +43,8 @@ If you need to contact someone on the committee please use these email links:
 * [Calum Spring, Secretary](mailto:secretary@makehackvoid.com)
 * [Tim Suess, Treasurer](mailto:treasurer@makehackvoid.com)
 * [Geoff Swan](shinobi.jack@gmail.com)
-* [Janet McKinney](mailto:janetmckin@gmail.com)
 * [Cameron Moon](mailto:cameron@moon.net.au)
+* [Stephen Dade](mailto:stephen_dade@hotmail.com)
 
 ## Twitter
 
