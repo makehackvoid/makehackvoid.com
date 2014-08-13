@@ -37,18 +37,9 @@ Joining is really easy
 
 # How to get a key
 
-Once you have been a part of the MakeHackVoid community for a while, you can
-get a key to the space so you can open the space whenever you want. It
-does come with some responsibilities, as other members are depending on key
-holders to open the space and lock up again when everyone leaves, we ask
-that you announce your plans to open the space on the makers mailing list
-and add an item in the [calendar](/#calendar).
+Once you have been a part of the MakeHackVoid community for a while, you can get a key to the space so you can open the space whenever you want. It does come with some responsibilities, as other members are depending on key holders to open the space and lock up again when everyone leaves, we ask that you announce your plans to open the space on the makers mailing list and add an item in the [calendar](/#calendar).
 
-Keys are handed out by the committee and require three members who already
-have keys to vouch for you on the committee mailing list. Often people who
-have been active for a while get offered keys and the people vouching for
-them handle the administrative side, but you're welcome to approach the
-committee or other members if you're ready to get a key. 
+Keys are handed out by the committee and require three members who already have keys to vouch for you in the [committee section](http://forum.makehackvoid.com/category/committee) of the forum. Often people who have been active for a while get offered keys and the people vouching for them handle the administrative side, but you're welcome to approach the committee or other members if you're ready to get a key.  Current keyholders are [listed on the wiki](https://wiki.makehackvoid.com/voussoirs).
 
 # FAQ
 
@@ -57,25 +48,19 @@ Anyone over 18 can become a Member.
 
 ## If I don't have a key, how often is the space open for me?
 
-At the moment the space is open regularly nearly every Tuesday &amp;
-Wednesday evening, most Sunday afternoons, and many Saturdays. Plus often at
-other times. If you join the [Makers mailing list](/mailman/listinfo/makers)
-then you’ll see posts when people plan to open the space, or when the space
-is open. See also the [calendar](/#calendar) for organised openings.
+At the moment the space is open regularly nearly every Tuesday &amp; Wednesday evening, most Sunday afternoons, and many Saturdays. Plus often at other times. See the [calendar](/#calendar) for organised openings. Opening and closing of the space is announced on [Twitter](https://twitter.com/MakeHackVoid) and the [announce mailing list](http://www.makehackvoid.com/mailman/listinfo/announce). Ask in the [Forum](http://forum.makehackvoid.com) if you would like someone to open the space at a particular time.
 
 ## What about Makers under 18 (minors)?
 
 Due to our insurance, only those 18 &amp; over may use tools at MHV.
-Although they cannot become members, minors are welcome at Maker Meetups, or
-for social visits in the meeting area &amp; couches.
+Although they cannot become members, minors are welcome at Maker Meetups, or for social visits in the meeting area &amp; couches.
 
-Those under 16 can visit the space when accompanied by a responsible adult
-who takes responsibility for their safety &amp; conduct.
+Those under 16 can visit the space when accompanied by a responsible adult who takes responsibility for their safety &amp; conduct.
 
 ## I have another question.
 You can email the MHV Treasurer -
-[treasurer@makehackvoid.com](mailto:treasurer@makehackvoid.com), email the
+[treasurer@makehackvoid.com](mailto:treasurer@makehackvoid.com) or the
 MHV Secretary -
 [secretary@makehackvoid.com](mailto:secretary@makehackvoid.com), and/or
-email the [Makers Mailing list](/mailman/listinfo/makers/).
+ask in the [Forums](http://forum.makehackvoid.com).
 

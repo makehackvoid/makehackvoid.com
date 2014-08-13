@@ -9,30 +9,7 @@ permalink: contacts/
 
 We have regular maker meetups where visitors are welcome. See the [meetings page](/meetings) for more details of what goes on and check the [calendar](/#calendar) for other times we are open.
 
-## On IRC
-
-Come and hang out on our IRC (Internet Relay Chat) channel on freenode. You can use the web client or your own client at irc.freenode.net #makehackvoid
-
-* [Direct Webchat Link](http://webchat.freenode.net/?channels=makehackvoid)
-* [Direct link for IRC clients](irc://irc.freenode.net/makehackvoid)
-
-## Email
-
-### Mailing Lists
-
-If you are not familiar with mailing lists, please read our [mailing list guidelines](http://wiki.makehackvoid.com/howto:mailing_list_guidelines).
-
-* The [Makers mailing list](http://www.makehackvoid.com/mailman/listinfo/makers) is used for informal discussion of projects and news, interesting things people are doing or thinking about. High volume list (about 2-8 messages per day.)
-  * [Subscribe or Unsubscribe](http://www.makehackvoid.com/mailman/listinfo/makers)
-  * [Makers Archives](http://www.makehackvoid.com/pipermail/makers/)
-* The [Committee mailing list](http://www.makehackvoid.com/mailman/listinfo/committee) is the best way to contact the entire MHV committee outside of a committee meeting. You can post to this list without subscribing first by just sending an email to [committee@makehackvoid.com](committee@makehackvoid.com), although your post will be delayed until the list administrator has a chance to approve it.
-  * [Subscribe or Unsubscribe](http://www.makehackvoid.com/mailman/listinfo/committee)
-  * [Committee Archives](http://www.makehackvoid.com/pipermail/committee/)
-* [Announcements mailing list](http://www.makehackvoid.com/mailman/listinfo/mhv-announce) Subscribe to receive notice of events, space openings or important news. Low volume list (about 0-1 messages per day.)
-  * [Subscribe or Unsubscribe](http://www.makehackvoid.com/mailman/listinfo/mhv-announce)
-  * [Announcement Archives](http://www.makehackvoid.com/pipermail/mhv-announce/)
-
-### Committee Members
+## Committee Members
 
 Make, Hack, Void, Inc. is a non-profit association, incorporated in the ACT. Our official administrative body is a committee elected by the membership.
 
@@ -46,19 +23,48 @@ If you need to contact someone on the committee please use these email links:
 * [Cameron Moon](mailto:cameron@moon.net.au)
 * [Stephen Dade](mailto:stephen_dade@hotmail.com)
 
-## Twitter
 
-You can tweet to [@MakeHackVoid](https://twitter.com/MakeHackVoid). Follow the account to get announcements and news from MHV.
+## On IRC
+
+Come and hang out on our IRC (Internet Relay Chat) channel on freenode. You can use the web client or your own client at irc.freenode.net #makehackvoid
+
+* [Direct Webchat Link](http://webchat.freenode.net/?channels=makehackvoid)
+* [Direct link for IRC clients](irc://irc.freenode.net/makehackvoid)
+
+## Forum
+
+We have a [Forum](http://forum.makehackvoid.com) for online discussions. If you prefer email, you can use your preferences to receive email from the forum and you can reply to topics from email.
 
 ## Facebook
 
 A lot of discussion and announcements happen on our [MakeHackVoid Facebook group](http://www.facebook.com/#!/group.php?gid=357947732276) both members and non-members are welcome.
 
-## Google+
+## Twitter
 
-The [MakeHackVoid Google+ page](https://plus.google.com/b/115335799936532561135/115335799936532561135/posts) posts news from other sources about things we think the community will find interesting.
+You can tweet to [@MakeHackVoid](https://twitter.com/MakeHackVoid). Follow the account to get announcements and news from MHV.
 
-<!--## Phone
+## Wiki
+
+We use a [wiki](https://wiki.makehackvoid.com) to collaborate on projects and workshops and to share information about equipment and how to do things.
+
+## Mailing Lists
+
+We are moving the Members and Committee mailing lists to a [Forum](http://forum.makehackvoid.com). The mailing list archives will remain available. The announcements list will continue to be used to announce when the space opens and closes.
+
+* [Announcements mailing list](http://www.makehackvoid.com/mailman/listinfo/mhv-announce) Subscribe to receive notice of events, space openings or important news. Low volume list (about 0-2 messages per day.)
+  * [Subscribe or Unsubscribe](http://www.makehackvoid.com/mailman/listinfo/mhv-announce)
+  * [Announcement Archives](http://www.makehackvoid.com/pipermail/mhv-announce/)
+
+* The [Makers mailing list](http://www.makehackvoid.com/mailman/listinfo/makers) is used for informal discussion of projects and news, interesting things people are doing or thinking about. High volume list (about 2-8 messages per day.)
+  * [Subscribe or Unsubscribe](http://www.makehackvoid.com/mailman/listinfo/makers)
+  * [Makers Archives](http://www.makehackvoid.com/pipermail/makers/)
+  
+* The Committee mailing list archives. The committee discussion is now happening in the [Committee section](http://forum.makehackvoid.com/category/committee) of the forum. Anyone can join the discussions.
+	* [Committee Archives](http://www.makehackvoid.com/pipermail/committee/)
+
+If you are not familiar with mailing lists, please read our [mailing list guidelines](http://wiki.makehackvoid.com/howto:mailing_list_guidelines).
+	
+## Phone
 
 There is a phone in the space that members can use for local calls and emergencies. It can be hard to hear it ringing if people are busy in the space. Phone: (02) 6112 6880.
--->
+
