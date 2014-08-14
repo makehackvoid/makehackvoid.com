@@ -10,5 +10,5 @@ We hold public [Maker Meetups](meetings/) on the 1st, 3rd & 5th Tuesdays of each
 
 Our group includes people with diverse backgrounds and interests. MakeHackVoid is dedicated to a harassment-free experience for everyone. See our [Code of conduct](code-of-conduct).
 
-If you can't make it to the next meeting then subscribe to the [Makers mailing list](contacts/), follow us on [Twitter](http://twitter.com/makehackvoid), [Facebook](http://www.facebook.com/group.php?gid=357947732276), or join us in the [IRC channel](contacts/).
+If you can't make it to the next meeting then join the conversation on the [Forum](http://forum.makehackvoid.com), follow us on [Twitter](http://twitter.com/makehackvoid),  [Facebook](http://www.facebook.com/group.php?gid=357947732276), or join us in the [IRC channel](contacts/#on_irc).
 
