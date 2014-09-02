@@ -19,7 +19,7 @@ If you need to contact someone on the committee please use these email links:
 * [Brenda Moon, Vice President](mailto:vicepresident@makehackvoid.com)
 * [Calum Spring, Secretary](mailto:secretary@makehackvoid.com)
 * [Tim Suess, Treasurer](mailto:treasurer@makehackvoid.com)
-* [Geoff Swan](shinobi.jack@gmail.com)
+* [Geoff Swan](mailto:shinobi.jack@gmail.com)
 * [Cameron Moon](mailto:cameron@moon.net.au)
 * [Stephen Dade](mailto:stephen_dade@hotmail.com)
 
@@ -49,20 +49,15 @@ We use a [wiki](https://wiki.makehackvoid.com) to collaborate on projects and wo
 
 ## Mailing Lists
 
-We are moving the Members and Committee mailing lists to a [Forum](http://forum.makehackvoid.com). The mailing list archives will remain available. The announcements list will continue to be used to announce when the space opens and closes.
+We have moved the Members and Committee mailing lists to a [Forum](http://forum.makehackvoid.com). The mailing list archives will remain available. The announcements list will continue to be used to announce when the space opens and closes.
 
 * [Announcements mailing list](http://www.makehackvoid.com/mailman/listinfo/mhv-announce) Subscribe to receive notice of events, space openings or important news. Low volume list (about 0-2 messages per day.)
   * [Subscribe or Unsubscribe](http://www.makehackvoid.com/mailman/listinfo/mhv-announce)
   * [Announcement Archives](http://www.makehackvoid.com/pipermail/mhv-announce/)
 
-* The [Makers mailing list](http://www.makehackvoid.com/mailman/listinfo/makers) is used for informal discussion of projects and news, interesting things people are doing or thinking about. High volume list (about 2-8 messages per day.)
-  * [Subscribe or Unsubscribe](http://www.makehackvoid.com/mailman/listinfo/makers)
-  * [Makers Archives](http://www.makehackvoid.com/pipermail/makers/)
+* [Makers mailing list archives](http://www.makehackvoid.com/pipermail/makers/)
   
-* The Committee mailing list archives. The committee discussion is now happening in the [Committee section](http://forum.makehackvoid.com/category/committee) of the forum. Anyone can join the discussions.
-	* [Committee Archives](http://www.makehackvoid.com/pipermail/committee/)
-
-If you are not familiar with mailing lists, please read our [mailing list guidelines](http://wiki.makehackvoid.com/howto:mailing_list_guidelines).
+* [Committee mailing list archives](http://www.makehackvoid.com/pipermail/committee/)
 	
 ## Phone
 
