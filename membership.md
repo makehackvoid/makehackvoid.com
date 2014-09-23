@@ -21,7 +21,7 @@ clean, safe and welcoming environment for members and guests.
 
 Joining is really easy 
 
-1. Fill in the membership form  [Google Form](https://docs.google.com/forms/d/1Yu7iUOJPQHefiLgDue3oAbMBu-4s87f_tygPlz5Isw0/viewform)
+1. Fill in the [Membership Form](http://members.makehackvoid.com/signup/)
 
 2. Check out [the rules](http://wiki.makehackvoid.com/policy:rules_draft) of the Makerspace (including conditions of membership) and make sure that you agree to abide by them. That’s important for everyone’s safety and enjoyment.
 
