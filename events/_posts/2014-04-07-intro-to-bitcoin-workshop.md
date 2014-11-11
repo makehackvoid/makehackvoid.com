@@ -33,4 +33,4 @@ author: mhv
 
 **Sign me up! / Where can I find out more?** More information can be found on the [wiki page][1].
 
-[1]:https://wiki.makehackvoid.com/workshops:bitcoin
+[1]:https://wiki.makehackvoid.com/workshops:archived:bitcoin

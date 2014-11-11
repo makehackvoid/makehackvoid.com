@@ -49,7 +49,7 @@ Redirect permanent /community/forms    https://wiki.makehackvoid.com/howto:make_
 Redirect permanent /community/forms    https://wiki.makehackvoid.com/howto:safety:equipment_self_induction_form
 Redirect permanent /community/suppliers    https://wiki.makehackvoid.com/links:suppliers
 Redirect permanent /group-projects/pcb-engraver    https://wiki.makehackvoid.com/howto:pcb_engraver
-Redirect permanent /group-projects/mhv-quadcopter-workshop-20    https://wiki.makehackvoid.com/workshops:quadcopter_workshop_2
+Redirect permanent /group-projects/mhv-quadcopter-workshop-20    https://wiki.makehackvoid.com/workshops:archived:quadcopter_workshop_2
 Redirect permanent /community/network-topology-progress    https://wiki.makehackvoid.com/tech_docs:network_topology
 Redirect permanent /community/server-config    https://wiki.makehackvoid.com/tech_docs:server
 Redirect permanent /community/ltsp-workstations    https://wiki.makehackvoid.com/tech_docs:ltsp_workstations
