@@ -4,3 +4,4 @@ serve
 .bundle
 *.swp
 Gemfile.lock
+.sass-cache

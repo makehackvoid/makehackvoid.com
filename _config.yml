@@ -52,7 +52,7 @@ encoding:    utf-8
 future:      false
 show_drafts: nil
 limit_posts: 0
-pygments:    true
+highlighter: pygments
 
 relative_permalinks: false
 
@@ -61,7 +61,7 @@ permalink:     pretty
 #paginate: 3
 
 # Using rdiscount instead of maruku
-markdown:      maruku
+markdown:      kramdown
 markdown_ext:  markdown,mkd,mkdn,md
 textile_ext:   textile
 
