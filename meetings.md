@@ -8,21 +8,29 @@ permalink: meetings/
 Maker Meetups
 ============
 
-First, third and fifth Tuesdays of every month are Maker Meetups. 6:15pm at [the space](/community/our-space).  You can [check the calendar for exact dates](/#calendar). 
+As a minimum, the MHV space is open every Tuesday evening from 6.30 for either a “Maker Meetup” (a semi-organised show and tell) or for a Community Meeting where members are free to discuss any relevant issues and raise items of interest.  
 
-At Maker Meetups you can check out the Makerspace, meet interesting people in Canberra’s Maker community and see the cool stuff people are working on. If you’ve been working on something that you’d like to share, you’ll find plenty of people keen to hear about your progress and the challenges you’ve faced. You can bounce ideas around, compare notes or draw on collective experience and knowledge to help progress through tricky parts of your projects.
+Visitors are welcome at any scheduled opening and members can always “do their own” thing in other areas of the space while meetings are underway.
 
-Everyone is welcome - all ages, interests and skill levels. 
+Maker Meetups are a particularly good opportunity for visitors to check out the Makerspace, meet interesting people in Canberra’s Maker community and see the cool stuff people are working on.
 
-Because the space is a workshop, you will need to wear covered shoes. 
+If you have been working on something that you’d like to share, you’ll find plenty of people keen to hear about your progress and the challenges you've faced. You can bounce ideas around, compare notes or draw on collective experience and knowledge to help progress through tricky parts of your projects.
 
-[Check out the community calendar](/#calendar) and copy the next Maker Meetup into your own calendar.
+Everyone is welcome - all ages, interests and skill levels.
 
-If you are unable to make it to our Maker Meetups, but wish to check out the space, keep an eye out for space openings and drop by some time. 
+Workshops, special interest group meetings, hack-a-thons and project work by individuals or groups can happen anytime and are generally entered into the [MHV Google Calendar][1] and/or announced on [the forum][2] at least a few days before they happen.
+
+Because the space is a workshop, you will need to wear covered shoes.
+
+If you are unable to make it to our Maker Meetups, but wish to check out the space, keep an eye out for space openings and drop by some time.
+
+You can check the calendar to see when people will be at space to show you around .
 
 [![Soldering up the barrel light gate, by devdsp](http://farm6.static.flickr.com/5229/5862500771_b9bcf18d4b_m.jpg "Soldering up the barrel light gate, by devdsp")](http://farm6.static.flickr.com/5229/5862500771_b9bcf18d4b_b.jpg)
-[![Felipe's multi-touch table at a Maker Meetup](http://farm6.static.flickr.com/5101/5679891188_27af8cb112_m.jpg "Felipe's multi-touch table at a Maker Meetup, by angusgr")](http://farm6.static.flickr.com/5101/5679891188_27af8cb112_b.jpg) 
+[![Felipe's multi-touch table at a Maker Meetup](http://farm6.static.flickr.com/5101/5679891188_27af8cb112_m.jpg "Felipe's multi-touch table at a Maker Meetup, by angusgr")](http://farm6.static.flickr.com/5101/5679891188_27af8cb112_b.jpg)
 
+[1]: http://makehackvoid.com/#calendar
+[2]: http://forum.makehackvoid.com
 
 Regular Space Opening Times
 ========================
@@ -42,5 +50,3 @@ Committee Meetings
 The committee meets when needed to deal with administration of MakeHackVoid. Committee meetings appear in the [community calendar](/#calendar). If you're interested in committee business, you can check out the [committee section](http://forum.makehackvoid.com/category/committee) of the forum or speak to any of the [committee members](/contacts#committee_members).
 
 [![Maker Meetup](http://farm6.static.flickr.com/5176/5407526116_98a71fb512_m.jpg "Maker Meetup, by angusgr")](http://farm6.static.flickr.com/5176/5407526116_98a71fb512_b.jpg)
-
-
