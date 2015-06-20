@@ -16,9 +16,9 @@ Make, Hack, Void, Inc. is a non-profit association, incorporated in the ACT. Our
 If you need to contact someone on the committee please use these email links:
 
 * [Adam Thomas, President](mailto:president@makehackvoid.com)
-* [Sam Lavender, Vice President](mailto:vicepresident@mackhackvoid.com)
+* [Sam Lavender, Vice President](mailto:vicepresident@makehackvoid.com)
 * [Jamie Reid, Secretary](mailto:secretary@makehackvoid.com)
-* [Peter Barker, Treasurer](mailto:treasurer@makehackvoid.com)
+* [Peter Baker, Treasurer](mailto:treasurer@makehackvoid.com)
 * [Paul Harvey](mailto:csirac2@gmail.com)
 * [Tony Pack](mailto:tony.pack@me.com)
 * [Declan Clark](mailto:freckleface_home@hotmail.com)
