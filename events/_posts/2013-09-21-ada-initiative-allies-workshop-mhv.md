@@ -10,7 +10,7 @@ author: selene
 **End:** 21/09/2013 16:00<br>
 **Where:** At MHV in Downer
 
-The Ada Initiative Allies Workshop focuses on what individual people can do to make their workplace or community a better, more positive place for women. The workshop teaches people how to respond to sexism in a productive way, whether online, in the workplace, or in person. More [details about the workshop is available on the Ada Initiative site](http://adainitiative.org/what-we-do/workshops-and-training).
+The Ada Initiative Allies Workshop focuses on what individual people can do to make their workplace or community a better, more positive place for women. The workshop teaches people how to respond to sexism in a productive way, whether online, in the workplace, or in person. More [details about the workshop is available on the Ada Initiative site](//adainitiative.org/what-we-do/workshops-and-training).
 
 I'm happy to announce that Mary from the Ada Initiative will be coming to Canberra to run an Ada Initiative "Allies Workshop" for the MHV community.
 

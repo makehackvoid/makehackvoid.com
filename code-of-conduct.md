@@ -13,6 +13,6 @@ If a person engages in harassing behaviour, MakeHackVoid members may take any ac
 
 ---
 
-This anti-harassment policy is based on the [example policy from the Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment), created by the Ada Initiative and other volunteers.
+This anti-harassment policy is based on the [example policy from the Geek Feminism wiki](//geekfeminism.wikia.com/wiki/Conference_anti-harassment), created by the Ada Initiative and other volunteers.
 
-Our wiki has details of how MakeHackVoid [implements this Code of Conduct](http://wiki.makehackvoid.com/policy:code_of_conduct).
+Our wiki has details of how MakeHackVoid [implements this Code of Conduct](//wiki.makehackvoid.com/policy:code_of_conduct).

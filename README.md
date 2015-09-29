@@ -1,19 +1,19 @@
 makehackvoid.com
 ================
 
-This project maintains the [Jekyll](http://jekyllrb.com/) layouts, stylesheets, and other assets required to automatically build the [makehackvoid.com](http://makehackvoid.com) website.
+This project maintains the [Jekyll](//jekyllrb.com/) layouts, stylesheets, and other assets required to automatically build the [makehackvoid.com](//makehackvoid.com) website.
 
 Usage
 -----
 
-We build the website automatically from plaintext [Markdown](https://en.wikipedia.org/wiki/Markdown) files. This means adding your content is quite simple, with two options for doing so:
+We build the website automatically from plaintext [Markdown](//en.wikipedia.org/wiki/Markdown) files. This means adding your content is quite simple, with two options for doing so:
 
 1. directly via GitHub’s web interface; or
 2. by downloading the project for editing locally
 
-For more detail see the [howto for writing/adding content on the MHV blog](http://makehackvoid.com/blog/2014/03/15/writing-howto/).
+For more detail see the [howto for writing/adding content on the MHV blog](//makehackvoid.com/blog/2014/03/15/writing-howto/).
 
-To hack on the website you’ll need [Ruby and Ruby Gems](http://jekyllrb.com/docs/installation/). To fetch the necessary packages/dependencies use bundle, in the root of the project:
+To hack on the website you’ll need [Ruby and Ruby Gems](//jekyllrb.com/docs/installation/). To fetch the necessary packages/dependencies use bundle, in the root of the project:
 
     bundle install
 
@@ -38,7 +38,7 @@ Technologies
 * Jekyll (1.1)
 * Twitter Bootstrap (3.0)
 * jQuery (1.10)
-* [Jekyll-Incorporated](https://github.com/kippt/jekyll-incorporated)
+* [Jekyll-Incorporated](//github.com/kippt/jekyll-incorporated)
 
 Other resources
 ---------------
@@ -47,7 +47,7 @@ Liquid cheat-sheet: http://cheat.markdunkley.com/
 
 License
 -------
-The licensed for this project will be finalised before public release. It is proposed that it be released under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+The licensed for this project will be finalised before public release. It is proposed that it be released under the [Apache License 2.0](//www.apache.org/licenses/LICENSE-2.0).
 
 To-dos
 ------
