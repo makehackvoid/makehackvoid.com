@@ -2,8 +2,6 @@
 {% javascript main %}
 {% javascript spaceapi-check.js %}
 {% javascript jquery.corner.js %}
-<script src="http://www.openlayers.org/api/OpenLayers.js"></script>
-{% javascript map.js %}
 <script>$( function() { $('.corner-default').corner();});</script>
 
 {% if site.inc.sharing.twitter %}<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>{% endif %}
