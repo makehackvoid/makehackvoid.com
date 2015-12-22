@@ -48,7 +48,7 @@ Anyone over 18 can become a Member.
 
 ## If I don't have a key, how often is the space open for me?
 
-At the moment the space is open regularly nearly every Tuesday &amp; Wednesday evening, most Sunday afternoons, and many Saturdays. Plus often at other times. See the [calendar](/#calendar) for organised openings. Opening and closing of the space is announced on [Twitter](//twitter.com/MakeHackVoid) and the [announce mailing list](//www.makehackvoid.com/mailman/listinfo/announce). Ask in the [Forum](//forum.makehackvoid.com) if you would like someone to open the space at a particular time.
+At the moment the space is open regularly nearly every Tuesday &amp; Wednesday evening, most Sunday afternoons, and many Saturdays. Plus often at other times. See the [calendar](/#calendar) for organised openings. Opening and closing of the space is announced on [Twitter](https://twitter.com/MakeHackVoid) and the [announce mailing list](//www.makehackvoid.com/mailman/listinfo/announce). Ask in the [Forum](//forum.makehackvoid.com) if you would like someone to open the space at a particular time.
 
 ## What about Makers under 18 (minors)?
 

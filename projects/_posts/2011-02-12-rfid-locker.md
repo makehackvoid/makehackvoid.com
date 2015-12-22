@@ -19,7 +19,7 @@ It took me a little a few hours and couple brews to install the lock. The whole 
 
 20 Feb, 2011 - Sunday
 
-Here's a picture of the internals of the RFID access system ready to be mounted in. The bright light is a 12v lamp that's a placeholder for the solenoid in the locker. The RFID circuit has been built from the [Freetronics RFID Lock Shield kit](//www.australianrobotics.com.au/?q=rfidLockKit) and allows for a 12v door strike to be controlled with Arduino. The shield also features an onboard voltage regulator to power the Arduino from the 12v solenoid/strike power source. Beautifully hacked into top of the shield is a small analog beeper that gives me a tone when access is granted!
+Here's a picture of the internals of the RFID access system ready to be mounted in. The bright light is a 12v lamp that's a placeholder for the solenoid in the locker. The RFID circuit has been built from the [Freetronics RFID Lock Shield kit](http://www.australianrobotics.com.au/?q=rfidLockKit) and allows for a 12v door strike to be controlled with Arduino. The shield also features an onboard voltage regulator to power the Arduino from the 12v solenoid/strike power source. Beautifully hacked into top of the shield is a small analog beeper that gives me a tone when access is granted!
 
 ![Solenoid](/files/projects/rfid-locker/solenoid.jpg)
 

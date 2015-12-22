@@ -15,9 +15,9 @@ At Make, Hack, Void we have started working on refitting an Emiglio/Scooter robo
 
 ![Taken apart](/files/projects/emiglio-refit/emiglio.jpg)
 
-Recently we spent an afternoon taking it apart to see what we can fit inside. Our initial hopes were to be able to fit a netbook or hacked Internet router inside the body to interface with sensors and actuators. During the tear down day it was determined that an EEE701 would comfortably fit inside the main body. We are also now considering using an ARM based development board like the [Blueboard-AT91RM9200](//shop.ngxtechnologies.com/product_info.php?products_id=72&osCsid=ea842a35dd75bc709b06c001cf8e8687) from NGX or re-purposing an old iPaq we had laying around.
+Recently we spent an afternoon taking it apart to see what we can fit inside. Our initial hopes were to be able to fit a netbook or hacked Internet router inside the body to interface with sensors and actuators. During the tear down day it was determined that an EEE701 would comfortably fit inside the main body. We are also now considering using an ARM based development board like the [Blueboard-AT91RM9200](http://shop.ngxtechnologies.com/product_info.php?products_id=72&osCsid=ea842a35dd75bc709b06c001cf8e8687) from NGX or re-purposing an old iPaq we had laying around.
 
-Angus took a bunch of photos on the [Emiglio teardown day](//www.flickr.com/photos/angusgr/sets/72157623848870449/) including a bunch of shots of [Emiglio's internals](//www.flickr.com/photos/angusgr/sets/72157623973215032/)
+Angus took a bunch of photos on the [Emiglio teardown day](https://www.flickr.com/photos/angusgr/sets/72157623848870449/) including a bunch of shots of [Emiglio's internals](https://www.flickr.com/photos/angusgr/sets/72157623973215032/)
 
 ## Current Status ##
 
@@ -31,11 +31,11 @@ With the base fully separated from the body we set about testing the motor contr
 
 It didn't go as well as we had hoped...
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/FblgAup3kF8?feature=player_embedded" frameborder="0" allowfullscreen="true"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/FblgAup3kF8?feature=player_embedded" frameborder="0" allowfullscreen="true"></iframe>
 
 ...but we had a plan!
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/UHihTrK7bEM?feature=player_embedded" frameborder="0" allowfullscreen="true"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/UHihTrK7bEM?feature=player_embedded" frameborder="0" allowfullscreen="true"></iframe>
 
 It's a start anyway.
 

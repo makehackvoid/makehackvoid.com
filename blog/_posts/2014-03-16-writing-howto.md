@@ -16,18 +16,18 @@ We use a number of tools to automate the building of the site. This makes adding
 
 ## Getting started
 
-There are two ways to add your content, both requiring an account on [GitHub.com](//github.com), where we host [the MakeHackVoid website code](//github.com/makehackvoid/makehackvoid.com):
+There are two ways to add your content, both requiring an account on [GitHub.com](https://github.com), where we host [the MakeHackVoid website code](https://github.com/makehackvoid/makehackvoid.com):
 
-1. [adding your content directly via the GitHub web interface](//help.github.com/articles/creating-and-editing-files-in-your-repository); or
+1. [adding your content directly via the GitHub web interface](https://help.github.com/articles/creating-and-editing-files-in-your-repository); or
 2. by downloading a clone of the project for local editing
 
-In either scenario you’ll want to [*fork* the project](//help.github.com/articles/fork-a-repo) (cloning it into your own account). Use the button in the top-right corner on the project page. This gives you your own copy of the website to play with and edit.
+In either scenario you’ll want to [*fork* the project](https://help.github.com/articles/fork-a-repo) (cloning it into your own account). Use the button in the top-right corner on the project page. This gives you your own copy of the website to play with and edit.
 
 From here you can add your content (e.g. a blog post). Once you’re happy send the project maintainers a *pull-request* to let them know of your intent to add your changes.
 
 ## Markdown
 
-All our content is written in plain text [Markdown](//en.wikipedia.org/wiki/Markdown) files (basic text files that use a simple human-readable syntax). For a primer check out [John Gruber’s initial project page](//daringfireball.net/projects/markdown/syntax). (Specifically, we’re using [Maruku](//maruku.rubyforge.org/index.html).)
+All our content is written in plain text [Markdown](https://en.wikipedia.org/wiki/Markdown) files (basic text files that use a simple human-readable syntax). For a primer check out [John Gruber’s initial project page](https://daringfireball.net/projects/markdown/syntax). (Specifically, we’re using [Maruku](http://maruku.rubyforge.org/index.html).)
 
 ## Github
 
@@ -39,13 +39,13 @@ Note that if you want to add non-text files, like images, you will have to work 
 
 ### Working locally
 
-Use your favourite Git client — GitHub have their own too for both [Windows](//windows.github.com/) and [Mac](//mac.github.com/) — or if you’re a terminal junkie clone the repo directly:
+Use your favourite Git client — GitHub have their own too for both [Windows](https://windows.github.com/) and [Mac](https://mac.github.com/) — or if you’re a terminal junkie clone the repo directly:
 
 `git clone git@github.com:makehackvoid/makehackvoid.com.git`
 
 ### Pull requests
 
-From the GitHub help documentation on [pull requests](//help.github.com/articles/using-pull-requests):
+From the GitHub help documentation on [pull requests](https://help.github.com/articles/using-pull-requests):
 
 > Pull requests let you tell others about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.
 
@@ -55,7 +55,7 @@ From code highlighting to metadata and more, there is a lot you can customise fo
 
 ### Content header metadata
 
-Post metadata is defined at the start of your Markdown files in the [‘YAML front-matter’](//jekyllrb.com/docs/frontmatter/). In addition to the stock variables we have a few extras:
+Post metadata is defined at the start of your Markdown files in the [‘YAML front-matter’](https://jekyllrb.com/docs/frontmatter/). In addition to the stock variables we have a few extras:
 
 {% highlight yaml %}
 # Selects the layout from _layouts/
@@ -92,7 +92,7 @@ Remember to add yourself to this file if you’re posting for the first time. If
 
 ### Hackergotchis/avatars
 
-‘Hackergotchis‘ sit in `files/hackergotchis/` and need to be sized 180×180 pixels. To make a matching circle hackergotchi you can use your favourite raster image editor — like [GIMP](http://www.gimp.org/) — to crop a circular mugshot of yourself.
+‘Hackergotchis‘ sit in `files/hackergotchis/` and need to be sized 180×180 pixels. To make a matching circle hackergotchi you can use your favourite raster image editor — like [GIMP](https://www.gimp.org/) — to crop a circular mugshot of yourself.
 
 Typically this process involves opening your image, cropping it as desired, making a circular selection with your face in the center, inverting the selection, and cutting this (outside space of this circle). Please save your image as a transparent PNG instead of leaving this negative space a white background.
 
@@ -111,7 +111,7 @@ These include:
 - block quotations — if you come across styling issues when nesting content in blockquotes let us know
 - lists, sorted and unsorted
 - definition lists
-- tables — these can be annoying to write in plain text so [a generator can be handy](//www.tablesgenerator.com/markdown_tables)
+- tables — these can be annoying to write in plain text so [a generator can be handy](http://www.tablesgenerator.com/markdown_tables)
 - preformatted text/code
 
 You can also set definitions easily as well, for example:
@@ -185,7 +185,7 @@ Which produces:
 
 ## More resources
 
-- [Markdown documentation](//daringfireball.net/projects/markdown)
-- [Jekyll documentation](//jekyllrb.com/docs/home/)
+- [Markdown documentation](https://daringfireball.net/projects/markdown)
+- [Jekyll documentation](https://jekyllrb.com/docs/home/)
 
 I might update this post as things are added.

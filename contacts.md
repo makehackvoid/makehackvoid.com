@@ -28,7 +28,7 @@ If you need to contact someone on the committee please use these email links:
 
 Come and hang out on our IRC (Internet Relay Chat) channel on freenode. You can use the web client or your own client at irc.freenode.net #makehackvoid
 
-* [Direct Webchat Link](//webchat.freenode.net/?channels=makehackvoid)
+* [Direct Webchat Link](https://webchat.freenode.net/?channels=makehackvoid)
 * [Direct link for IRC clients](irc://irc.freenode.net/makehackvoid)
 
 ## Forum
@@ -37,11 +37,11 @@ We have a [Forum](//forum.makehackvoid.com) for online discussions. If you prefe
 
 ## Facebook
 
-A lot of discussion and announcements happen on our [MakeHackVoid Facebook group](//www.facebook.com/#!/group.php?gid=357947732276) both members and non-members are welcome.
+A lot of discussion and announcements happen on our [MakeHackVoid Facebook group](https://www.facebook.com/#!/group.php?gid=357947732276) both members and non-members are welcome.
 
 ## Twitter
 
-You can tweet to [@MakeHackVoid](//twitter.com/MakeHackVoid). Follow the account to get announcements and news from MHV.
+You can tweet to [@MakeHackVoid](https://twitter.com/MakeHackVoid). Follow the account to get announcements and news from MHV.
 
 ## Wiki
 

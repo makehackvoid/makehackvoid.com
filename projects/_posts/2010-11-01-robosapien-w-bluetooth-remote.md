@@ -20,7 +20,7 @@ Introduction
 
 I was given a Robosapien months ago, but I  hadn't done anything with it. Then I met Andrew Moss at the MHV Meetup, with his Robosapien. Andrew wants to use Robosapien to teach robotics to Year 11 & 12 students. He was having trouble deciphering the IR codes from the Robosapien's remote control. My interest was piqued!
 
-The Robosapien has an IR receiver in his head, which sends signals to the main board in his back. I tapped into the IR line so I could inject my own signals onto the wire. This technique has been done many times before, and it's quite well documented on the [Arduino playground](//www.arduino.cc/playground/Main/RoboSapienIR).
+The Robosapien has an IR receiver in his head, which sends signals to the main board in his back. I tapped into the IR line so I could inject my own signals onto the wire. This technique has been done many times before, and it's quite well documented on the [Arduino playground](http://www.arduino.cc/playground/Main/RoboSapienIR).
 
 Getting Inside
 --------------
@@ -76,7 +76,7 @@ If you're using a normal Arduino, or an MHVBoard, these are 5v. So it's a little
 
 Even at 5v, you should be able to read 3.3v input signals directly without any trouble (although it's a bit hacky.) For instance, you can sniff IR signals from the receiver to the main board.
 
-However, using a 5v output to drive a 3.3v pin (for instance, injecting signals into the Robosapien via IR OUT) is not so simple. You'll need to step the output voltage down. There are several easy ways to do this, from this [very simple voltage divider](//www.makingthings.com/documentation/how-to/scale-a-5v-signal-to-3.3v) to [these other solutions](//www.sparkfun.com/commerce/tutorial_info.php?tutorials_id=65).
+However, using a 5v output to drive a 3.3v pin (for instance, injecting signals into the Robosapien via IR OUT) is not so simple. You'll need to step the output voltage down. There are several easy ways to do this, from this [very simple voltage divider](http://www.makingthings.com/documentation/how-to/scale-a-5v-signal-to-3.3v) to [these other solutions](https://www.sparkfun.com/commerce/tutorial_info.php?tutorials_id=65).
 
 
 Mounting the Seeeduino
@@ -90,7 +90,7 @@ This was just a temporary hack, so I used a rubber band to hold the Seeeduino on
 Reading IR Signals
 ------------------
 
-The best reference I found for the IR signals was this one from [AiboPet](//www.aibohack.com/robosap/ir_codes.htm). The signals are "space coded", which means that each bit consists of a high followed by a low, and the relative timing of the pulses tells you whether the bit is a 1 or a 0. This is good in situations where you don't want to worry about clock sync, because the sending clock rate is implicitly encoded into the signal.
+The best reference I found for the IR signals was this one from [AiboPet](http://www.aibohack.com/robosap/ir_codes.htm). The signals are "space coded", which means that each bit consists of a high followed by a low, and the relative timing of the pulses tells you whether the bit is a 1 or a 0. This is good in situations where you don't want to worry about clock sync, because the sending clock rate is implicitly encoded into the signal.
 
 I wrote a quick Arduino [sketch to read IR pulse codes](//www.makehackvoid.com/sites/default/files/user7/RoboReader.tgz), and output the hex values to the serial port (via USB.) Then I plugged in the robot and pressed a few buttons on the IR remote.
 
@@ -219,11 +219,11 @@ Bring the Bluetooth
 
 Last month Geoff, Chris & I all went in on some $10 Bluetooth-compatible serial modules from ebay. This was my first chance to try them out.
 
-I intend to put up a dedicated post about these later. For now, all I did was hot glue mine to the Seeeduino and solder the Tx/Rx pins to Seeeduino pins 2 & 3. This gave me a Bluetooth serial link that I could address via a SoftSerial module (I installed the [NewSoftSerial](//arduiniana.org/libraries/newsoftserial/) library into the Arduino environment, but MHVLib also includes a suitable software serial component.) The Bluetooth modules are 3.3v as well, so the same 5v precautions described above also apply to them.
+I intend to put up a dedicated post about these later. For now, all I did was hot glue mine to the Seeeduino and solder the Tx/Rx pins to Seeeduino pins 2 & 3. This gave me a Bluetooth serial link that I could address via a SoftSerial module (I installed the [NewSoftSerial](http://arduiniana.org/libraries/newsoftserial/) library into the Arduino environment, but MHVLib also includes a suitable software serial component.) The Bluetooth modules are 3.3v as well, so the same 5v precautions described above also apply to them.
 
 ![Seeeduino + hot glue + Bluetooth serial -> cheaper than an Arduino Bluetooth!](/files/projects/robosapien-w-bluetooth-remote/seeeduino-work.jpg)
 
-If you don't have access to a Bluetooth module, there are lots of other options for serial wireless links. For instance, here in Australia Jaycar sell one-way [433Mhz wireless modules](//www.jaycar.com.au/productView.asp?ID=ZW3102). Or you could use an official Arduino Bluetooth, or something like a Seeed Black Widow for a Wifi link. The nice thing about using Bluetooth is that the link is two way, and all of the connection negotiation, reliability, and error correction is handled for you by the Bluetooth protocol.
+If you don't have access to a Bluetooth module, there are lots of other options for serial wireless links. For instance, here in Australia Jaycar sell one-way [433Mhz wireless modules](http://www.jaycar.com.au/productView.asp?ID=ZW3102). Or you could use an official Arduino Bluetooth, or something like a Seeed Black Widow for a Wifi link. The nice thing about using Bluetooth is that the link is two way, and all of the connection negotiation, reliability, and error correction is handled for you by the Bluetooth protocol.
 
 
 Bluetoothed Bot
@@ -233,13 +233,13 @@ Here's a photo of the Seeeduino + Bluetooth mounted loosely to the Robosapien:
 
 ![Robosapien Bluetooth!](/files/projects/robosapien-w-bluetooth-remote/bluetoothed.jpg)
 
-The last quick sketch I threw together reads IR commands from the Bluetooth serial link, and then writes them to the control board. If you [download it](//www.makehackvoid.com/sites/default/files/user7/RoboRelay.tgz), you'll also need the [NewSoftSerial library](//arduiniana.org/libraries/newsoftserial/).
+The last quick sketch I threw together reads IR commands from the Bluetooth serial link, and then writes them to the control board. If you [download it](//www.makehackvoid.com/sites/default/files/user7/RoboRelay.tgz), you'll also need the [NewSoftSerial library](http://arduiniana.org/libraries/newsoftserial/).
 
 The sketch file also include a simple Python module, robo_control.py. This module contains some classes to communicate directly with the Bluetooth module. It allows you to send commands from the Python shell, or easily build a user interface to send commands to the module.
 
 Here's a video of him wandering around my kitchen, under Python control:
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/ZRv2Tos-uhw?feature=player_embedded" frameborder="0" allowfullscreen="true"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ZRv2Tos-uhw?feature=player_embedded" frameborder="0" allowfullscreen="true"></iframe>
 
 Range on the Bluetooth serial modules seems pretty good. I could still control the robot (blind) at the other end of our apartment, three rooms away from the computer and around two corners!
 
