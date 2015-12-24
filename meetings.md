@@ -44,9 +44,9 @@ The space is open lots of times through the week.
 
 (All photos by angusgr & devdsp, via [MHV flickr pool](http://flickr.com/groups/makehackvoid/))
 
-Committee Meetings
+Community Meetings
 ================
 
-The committee meets when needed to deal with administration of MakeHackVoid. Committee meetings appear in the [community calendar](/#calendar). If you're interested in committee business, you can check out the [committee section](http://forum.makehackvoid.com/category/committee) of the forum or speak to any of the [committee members](/contacts#committee_members).
+When needed, the committee hosts a Community Meeting to deal with administration of MakeHackVoid. Community meetings appear in the [MHV Google Calendar][1]. If you're interested in the administrative side of MHV business, you can check out the [committee section](http://forum.makehackvoid.com/category/committee) of the forum or speak to any of the [committee members](/contacts#committee_members).
 
 [![Maker Meetup](http://farm6.static.flickr.com/5176/5407526116_98a71fb512_m.jpg "Maker Meetup, by angusgr")](http://farm6.static.flickr.com/5176/5407526116_98a71fb512_b.jpg)
