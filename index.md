@@ -10,4 +10,4 @@ We hold public [meetups](meetings/) every Tuesday from 6:30pm. These meetups are
 
 Our group includes people with diverse backgrounds and interests. MakeHackVoid is dedicated to a harassment-free experience for everyone. See our [Code of conduct](code-of-conduct).
 
-If you can't make it to the next meeting then join the conversation on the [Forum](http://forum.makehackvoid.com), follow us on [Twitter](http://twitter.com/makehackvoid),  [Facebook](http://www.facebook.com/group.php?gid=357947732276), or join us in the [IRC channel](contacts/#on_irc).
+If you can't make it to the next meeting then join the conversation on the [Forum](http://forum.makehackvoid.com), follow us on [Twitter](http://twitter.com/makehackvoid),  [Facebook](https://www.facebook.com/groups/357947732276/), or join us in the [IRC channel](contacts/#on_irc).
