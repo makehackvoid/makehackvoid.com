@@ -9,7 +9,7 @@ excerpt: "Learn about encryption technology"
 author: selene
 ---
 
-![CryptoParty Logo](https://raw.github.com/cryptoparty/artwork/master/CryptoPartyLogo.png)
+![CryptoParty Logo](https://raw.githubusercontent.com/cryptoparty/artwork/master/cryptoparty_global_logos_icons/global.png)
 
 Concerned about the constant revelations of NSA surveillance that are turning up in your facebook timelines and twitter feeds? Worried about what your social media, email and other communication platforms of choice are doing with your data besides handing it over to foreign governments? However, not quite ready to turn your back on the internet just yet?
 

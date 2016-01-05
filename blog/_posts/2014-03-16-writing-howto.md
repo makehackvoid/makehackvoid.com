@@ -27,7 +27,7 @@ From here you can add your content (e.g. a blog post). Once you’re happy send 
 
 ## Markdown
 
-All our content is written in plain text [Markdown](https://en.wikipedia.org/wiki/Markdown) files (basic text files that use a simple human-readable syntax). For a primer check out [John Gruber’s initial project page](http://daringfireball.net/projects/markdown/syntax). (Specifically, we’re using [Maruku](http://maruku.rubyforge.org/index.html).)
+All our content is written in plain text [Markdown](https://en.wikipedia.org/wiki/Markdown) files (basic text files that use a simple human-readable syntax). For a primer check out [John Gruber’s initial project page](https://daringfireball.net/projects/markdown/syntax). (Specifically, we’re using [Maruku](http://maruku.rubyforge.org/index.html).)
 
 ## Github
 
@@ -39,7 +39,7 @@ Note that if you want to add non-text files, like images, you will have to work 
 
 ### Working locally
 
-Use your favourite Git client — GitHub have their own too for both [Windows](http://windows.github.com/) and [Mac](http://mac.github.com/) — or if you’re a terminal junkie clone the repo directly:
+Use your favourite Git client — GitHub have their own too for both [Windows](https://windows.github.com/) and [Mac](https://mac.github.com/) — or if you’re a terminal junkie clone the repo directly:
 
 `git clone git@github.com:makehackvoid/makehackvoid.com.git`
 
@@ -55,7 +55,7 @@ From code highlighting to metadata and more, there is a lot you can customise fo
 
 ### Content header metadata
 
-Post metadata is defined at the start of your Markdown files in the [‘YAML front-matter’](http://jekyllrb.com/docs/frontmatter/). In addition to the stock variables we have a few extras:
+Post metadata is defined at the start of your Markdown files in the [‘YAML front-matter’](https://jekyllrb.com/docs/frontmatter/). In addition to the stock variables we have a few extras:
 
 {% highlight yaml %}
 # Selects the layout from _layouts/
@@ -92,7 +92,7 @@ Remember to add yourself to this file if you’re posting for the first time. If
 
 ### Hackergotchis/avatars
 
-‘Hackergotchis‘ sit in `files/hackergotchis/` and need to be sized 180×180 pixels. To make a matching circle hackergotchi you can use your favourite raster image editor — like [GIMP](http://www.gimp.org/) — to crop a circular mugshot of yourself.
+‘Hackergotchis‘ sit in `files/hackergotchis/` and need to be sized 180×180 pixels. To make a matching circle hackergotchi you can use your favourite raster image editor — like [GIMP](https://www.gimp.org/) — to crop a circular mugshot of yourself.
 
 Typically this process involves opening your image, cropping it as desired, making a circular selection with your face in the center, inverting the selection, and cutting this (outside space of this circle). Please save your image as a transparent PNG instead of leaving this negative space a white background.
 
@@ -185,7 +185,7 @@ Which produces:
 
 ## More resources
 
-- [Markdown documentation](http://daringfireball.net/projects/markdown)
-- [Jekyll documentation](http://jekyllrb.com/docs/home/)
+- [Markdown documentation](https://daringfireball.net/projects/markdown)
+- [Jekyll documentation](https://jekyllrb.com/docs/home/)
 
 I might update this post as things are added.

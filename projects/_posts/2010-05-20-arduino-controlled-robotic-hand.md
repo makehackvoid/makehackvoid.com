@@ -42,7 +42,7 @@ Unfortunatly the linkage is slightly off due to user error so the tip segment do
 ![Hand](/files/projects/arduino-controlled-robotic-hand/moving2.jpg)
 
 And a video of the early knuckle movement:
-[http://www.youtube.com/watch?v=IDY7FiV8_vU](http://www.youtube.com/watch?v=IDY7FiV8_vU)
+[https://www.youtube.com/watch?v=IDY7FiV8_vU](https://www.youtube.com/watch?v=IDY7FiV8_vU)
 
 
 
@@ -68,7 +68,7 @@ Update 31/5/10:
 ![Hand](/files/projects/arduino-controlled-robotic-hand/update31-5-10_1.jpg)
 ![Hand](/files/projects/arduino-controlled-robotic-hand/update31-5-10_2.jpg)
 
-[http://www.youtube.com/watch?v=qCqRqPslyoY](http://www.youtube.com/watch?v=qCqRqPslyoY)
+[https://www.youtube.com/watch?v=qCqRqPslyoY](https://www.youtube.com/watch?v=qCqRqPslyoY)
 
 
 
@@ -93,7 +93,7 @@ Update 25/6/10:
 
 Here is the long overdue update for the Robot World Live event that was held on the 17/8/10:
 
-Here is [our post about the event](http://www.makehackvoid.com/news/mhv-robot-world-live). Here is [Bobby Cerini's blog post](http://bobbycerini.wordpress.com/2010/09/10/small-things-how-to-make-a-robot-hand/) and this is the [ABC News segment](http://www.abc.net.au/news/video/2010/08/17/2985844.htm).
+Here is [our post about the event](//www.makehackvoid.com/news/mhv-robot-world-live). Here is [Bobby Cerini's blog post](https://bobbycerini.wordpress.com/2010/09/10/small-things-how-to-make-a-robot-hand/) and this is the [ABC News segment](http://www.abc.net.au/news/video/2010/08/17/2985844.htm).
 
 In short it was an amazing opportunity and one that I will gladly just at again. And thank you Mal Goldsmith for the amazing photos that follow:
 

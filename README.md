@@ -1,7 +1,7 @@
 makehackvoid.com
 ================
 
-This project maintains the [Jekyll](http://jekyllrb.com/) layouts, stylesheets, and other assets required to automatically build the [makehackvoid.com](http://makehackvoid.com) website.
+This project maintains the [Jekyll](https://jekyllrb.com/) layouts, stylesheets, and other assets required to automatically build the [makehackvoid.com](https://makehackvoid.com) website.
 
 Usage
 -----
@@ -13,7 +13,7 @@ We build the website automatically from plaintext [Markdown](https://en.wikipedi
 
 For more detail see the [howto for writing/adding content on the MHV blog](http://makehackvoid.com/blog/2014/03/15/writing-howto/).
 
-To hack on the website you’ll need [Ruby and Ruby Gems](http://jekyllrb.com/docs/installation/). To fetch the necessary packages/dependencies use bundle, in the root of the project:
+To hack on the website you’ll need [Ruby and Ruby Gems](https://jekyllrb.com/docs/installation/). To fetch the necessary packages/dependencies use bundle, in the root of the project:
 
     bundle install
 
@@ -31,7 +31,7 @@ File structure
 We’re making use of some extra features over vanilla Jekyll:
 
 - `_assets`: https://github.com/ixti/jekyll-assets
-- `_data`: http://jekyllrb.com/docs/datafiles/
+- `_data`: https://jekyllrb.com/docs/datafiles/
 
 Technologies
 ------------
@@ -47,7 +47,7 @@ Liquid cheat-sheet: http://cheat.markdunkley.com/
 
 License
 -------
-The licensed for this project will be finalised before public release. It is proposed that it be released under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+The licensed for this project will be finalised before public release. It is proposed that it be released under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
 To-dos
 ------

@@ -7,7 +7,7 @@ inc:
 
   # Company information
   company:      MHV Inc.
-  url:          http://makehackvoid.com
+  url:          https://makehackvoid.com
   facebook:     'makehackvoid'
   twitter:      MakeHackVoid
   gplus:        '404'
@@ -38,7 +38,7 @@ inc:
 
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-url:         http://makehackvoid.com
+url:         https://makehackvoid.com
 source:      .
 destination: ./_site
 plugins:     ./_plugins

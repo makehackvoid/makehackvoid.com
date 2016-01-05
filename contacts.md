@@ -28,16 +28,16 @@ If you need to contact someone on the committee please use these email links:
 
 Come and hang out on our IRC (Internet Relay Chat) channel on freenode. You can use the web client or your own client at irc.freenode.net #makehackvoid
 
-* [Direct Webchat Link](http://webchat.freenode.net/?channels=makehackvoid)
+* [Direct Webchat Link](https://webchat.freenode.net/?channels=makehackvoid)
 * [Direct link for IRC clients](irc://irc.freenode.net/makehackvoid)
 
 ## Forum
 
-We have a [Forum](http://forum.makehackvoid.com) for online discussions. If you prefer email, you can use your preferences to receive email from the forum and you can reply to topics from email.
+We have a [Forum](//forum.makehackvoid.com) for online discussions. If you prefer email, you can use your preferences to receive email from the forum and you can reply to topics from email.
 
 ## Facebook
 
-A lot of discussion and announcements happen on our [MakeHackVoid Facebook group](http://www.facebook.com/#!/group.php?gid=357947732276) both members and non-members are welcome.
+A lot of discussion and announcements happen on our [MakeHackVoid Facebook group](https://www.facebook.com/#!/group.php?gid=357947732276) both members and non-members are welcome.
 
 ## Twitter
 
@@ -45,21 +45,20 @@ You can tweet to [@MakeHackVoid](https://twitter.com/MakeHackVoid). Follow the a
 
 ## Wiki
 
-We use a [wiki](https://wiki.makehackvoid.com) to collaborate on projects and workshops and to share information about equipment and how to do things.
+We use a [wiki](//wiki.makehackvoid.com) to collaborate on projects and workshops and to share information about equipment and how to do things.
 
 ## Mailing Lists
 
-We have moved the Members and Committee mailing lists to a [Forum](http://forum.makehackvoid.com). The mailing list archives will remain available. The announcements list will continue to be used to announce when the space opens and closes.
+We have moved the Members and Committee mailing lists to a [Forum](//forum.makehackvoid.com). The mailing list archives will remain available. The announcements list will continue to be used to announce when the space opens and closes.
 
-* [Announcements mailing list](http://www.makehackvoid.com/mailman/listinfo/mhv-announce) Subscribe to receive notice of events, space openings or important news. Low volume list (about 0-2 messages per day.)
-  * [Subscribe or Unsubscribe](http://www.makehackvoid.com/mailman/listinfo/mhv-announce)
-  * [Announcement Archives](http://www.makehackvoid.com/pipermail/mhv-announce/)
+* [Announcements mailing list](//www.makehackvoid.com/mailman/listinfo/mhv-announce) Subscribe to receive notice of events, space openings or important news. Low volume list (about 0-2 messages per day.)
+  * [Subscribe or Unsubscribe](//www.makehackvoid.com/mailman/listinfo/mhv-announce)
+  * [Announcement Archives](//www.makehackvoid.com/pipermail/mhv-announce/)
 
-* [Makers mailing list archives](http://www.makehackvoid.com/pipermail/makers/)
-  
-* [Committee mailing list archives](http://www.makehackvoid.com/pipermail/committee/)
-	
+* [Makers mailing list archives](//www.makehackvoid.com/pipermail/makers/)
+
+* [Committee mailing list archives](//www.makehackvoid.com/pipermail/committee/)
+
 ## Phone
 
 There is a phone in the space that members can use for local calls and emergencies. It can be hard to hear it ringing if people are busy in the space. Phone: (02) 6112 6880.
-

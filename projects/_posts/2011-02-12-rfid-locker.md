@@ -27,6 +27,4 @@ Here's a picture of the internals of the RFID access system ready to be mounted 
 
 12 Feb 2010 - Saturday
 
-I've installed a 12v solenoid bolt on the inside of my locker as the first step of making the locker RFID accessible. As reliability is always of utmost importance in access control and locking, this was the first proof of concept for the project. After some primitive plastic fabrication, ear-bursting drilling and 12v later, the solenoid is locking the locker successfully in a fail-safe mode. In the case of a power failure a fail-safe design will remain locked. Props to Alastair for the cool acrylic laser cut which is now a sign for the locker. Next step...RFID, Bluetooth...Wifi? 
-
-
+I've installed a 12v solenoid bolt on the inside of my locker as the first step of making the locker RFID accessible. As reliability is always of utmost importance in access control and locking, this was the first proof of concept for the project. After some primitive plastic fabrication, ear-bursting drilling and 12v later, the solenoid is locking the locker successfully in a fail-safe mode. In the case of a power failure a fail-safe design will remain locked. Props to Alastair for the cool acrylic laser cut which is now a sign for the locker. Next step...RFID, Bluetooth...Wifi?
